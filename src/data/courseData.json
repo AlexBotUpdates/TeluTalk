@@ -1,0 +1,82 @@
+[
+  {
+    "day": 1,
+    "topic": "Greetings",
+    "phrases": [
+      { "telugu": "Namaskaram", "pronunciation": "na-mas-ka-ram", "english": "Hello" },
+      { "telugu": "Meeru ela unnaru", "pronunciation": "mee-ru e-la un-na-ru", "english": "How are you?" },
+      { "telugu": "Nenu baagunnanu", "pronunciation": "ne-nu baa-gun-na-nu", "english": "I am fine" },
+      { "telugu": "Dhanyavaadaalu", "pronunciation": "dhan-ya-vaa-daa-lu", "english": "Thank you" },
+      { "telugu": "Shubhodayam", "pronunciation": "shu-bho-da-yam", "english": "Good morning" },
+      { "telugu": "Shubha raatri", "pronunciation": "shu-bha raa-tri", "english": "Good night" }
+    ]
+  },
+  {
+    "day": 2,
+    "topic": "Introductions",
+    "phrases": [
+      { "telugu": "Naa peru", "pronunciation": "naa pe-ru", "english": "My name is" },
+      { "telugu": "Mee peru enti", "pronunciation": "mee pe-ru en-ti", "english": "What is your name?" },
+      { "telugu": "Kaluddam andi", "pronunciation": "ka-lud-dam an-di", "english": "Nice to meet you" },
+      { "telugu": "Nenu India nundi", "pronunciation": "ne-nu in-dia nun-di", "english": "I am from India" },
+      { "telugu": "Meeru ekkada nundi", "pronunciation": "mee-ru ek-ka-da nun-di", "english": "Where are you from?" }
+    ]
+  },
+  {
+    "day": 3,
+    "topic": "Basic Questions",
+    "phrases": [
+      { "telugu": "Idi enti", "pronunciation": "i-di en-ti", "english": "What is this?" },
+      { "telugu": "Ekkada", "pronunciation": "ek-ka-da", "english": "Where?" },
+      { "telugu": "Eppudu", "pronunciation": "ep-pu-du", "english": "When?" },
+      { "telugu": "Enduku", "pronunciation": "en-du-ku", "english": "Why?" },
+      { "telugu": "Ela", "pronunciation": "e-la", "english": "How?" },
+      { "telugu": "Evaru", "pronunciation": "e-va-ru", "english": "Who?" }
+    ]
+  },
+  {
+    "day": 4,
+    "topic": "Numbers",
+    "phrases": [
+      { "telugu": "Okati", "pronunciation": "o-ka-ti", "english": "One" },
+      { "telugu": "Rendu", "pronunciation": "ren-du", "english": "Two" },
+      { "telugu": "Moodu", "pronunciation": "moo-du", "english": "Three" },
+      { "telugu": "Naalugu", "pronunciation": "naa-lu-gu", "english": "Four" },
+      { "telugu": "Aidu", "pronunciation": "ai-du", "english": "Five" }
+    ]
+  },
+  {
+    "day": 5,
+    "topic": "Food & Drink",
+    "phrases": [
+      { "telugu": "Naaku aakali ga undi", "pronunciation": "naa-ku aa-ka-li ga un-di", "english": "I am hungry" },
+      { "telugu": "Naaku daaham ga undi", "pronunciation": "naa-ku daa-ham ga un-di", "english": "I am thirsty" },
+      { "telugu": "Neellu kavali", "pronunciation": "neel-lu ka-va-li", "english": "I need water" },
+      { "telugu": "Bhojanam", "pronunciation": "bho-ja-nam", "english": "Food" },
+      { "telugu": "Chaala baagundi", "pronunciation": "chaa-la baa-gun-di", "english": "Very good / Delicious" }
+    ]
+  },
+  {
+    "day": 6,
+    "topic": "Directions",
+    "phrases": [
+      { "telugu": "Edama vaaipu", "pronunciation": "e-da-ma vaa-i-pu", "english": "Left side" },
+      { "telugu": "Kudee vaaipu", "pronunciation": "ku-dee vaa-i-pu", "english": "Right side" },
+      { "telugu": "Munduku vellu", "pronunciation": "mun-du-ku vel-lu", "english": "Go forward" },
+      { "telugu": "Venakki vellu", "pronunciation": "ve-nak-ki vel-lu", "english": "Go back" },
+      { "telugu": "Ikkada aagu", "pronunciation": "ik-ka-da aa-gu", "english": "Stop here" }
+    ]
+  },
+  {
+    "day": 7,
+    "topic": "Common Phrases",
+    "phrases": [
+      { "telugu": "Avunu", "pronunciation": "a-vu-nu", "english": "Yes" },
+      { "telugu": "Kaadu", "pronunciation": "kaa-du", "english": "No" },
+      { "telugu": "Kshaminchandee", "pronunciation": "ksha-minch-an-dee", "english": "Excuse me / Sorry" },
+      { "telugu": "Dayachesi", "pronunciation": "da-ya-che-si", "english": "Please" },
+      { "telugu": "Saree", "pronunciation": "sa-ree", "english": "Okay" },
+      { "telugu": "Artham ayindi", "pronunciation": "ar-tham a-yin-di", "english": "I understand" }
+    ]
+  }
+]

@@ -1,0 +1,301 @@
+day,topic,telugu,pronunciation,english,sort_order
+1,Greetings,నమస్కారం,Namaskaram,Hello,1
+1,Greetings,మీరు ఎలా ఉన్నారు?,Meeru ela unnaru?,How are you?,2
+1,Greetings,నేను బాగున్నాను,Nenu bagunnanu,I am fine,3
+1,Greetings,శుభోదయం,Shubhodayam,Good morning,4
+1,Greetings,శుభరాత్రి,Shubharatri,Good night,5
+1,Greetings,మళ్ళీ కలుద్దాం,Malli kaluddam,See you later,6
+1,Greetings,భోజనం చేశారా?,Bhojanam chesara?,Had your meal?,7
+1,Greetings,స్వాగతం,Swagatam,Welcome,8
+1,Greetings,ఏంటి సంగతులు?,Enti sangatulu?,What's up?,9
+1,Greetings,అంతా బాగుంది,Antha bagundi,Everything is good,10
+2,Introductions,మీ పేరు ఏమిటి?,Mee peru emiti?,What is your name?,1
+2,Introductions,నా పేరు రాహుల్,Naa peru Rahul,My name is Rahul,2
+2,Introductions,మీరు ఎక్కడి నుండి వచ్చారు?,Meeru ekkadi nundi vacharu?,Where are you from?,3
+2,Introductions,నేను అమెరికా నుండి వచ్చాను,Nenu America nundi vachanu,I am from America,4
+2,Introductions,మిమ్మల్ని కలవడం సంతోషంగా ఉంది,Mimmalni kalavadam santhoshanga undi,Nice to meet you,5
+2,Introductions,మీ వయస్సు ఎంత?,Mee vayassu entha?,How old are you?,6
+2,Introductions,మీరు ఏం చేస్తుంటారు?,Meeru em chesthuntaru?,What do you do?,7
+2,Introductions,నేను విద్యార్థిని,Nenu vidyarthini,I am a student,8
+2,Introductions,నేను ఆఫీస్ లో పని చేస్తున్నాను,Nenu office lo pani chesthunnanu,I work in an office,9
+2,Introductions,మీకు ఇంగ్లీష్ వచ్చా?,Meeku English vachaa?,Do you speak English?,10
+3,Basic conversation,అవును,Avunu,Yes,1
+3,Basic conversation,కాదు / లేదు,Kaadu / Ledu,No,2
+3,Basic conversation,నాకు తెలియదు,Naaku teliyadu,I don't know,3
+3,Basic conversation,నాకు తెలుసు,Naaku telusu,I know,4
+3,Basic conversation,ఇది ఏమిటి?,Idi emiti?,What is this?,5
+3,Basic conversation,ఏం జరిగింది?,Em jarigindi?,What happened?,6
+3,Basic conversation,ఎందుకు?,Enduku?,Why?,7
+3,Basic conversation,ఎప్పుడు?,Eppudu?,When?,8
+3,Basic conversation,ఎక్కడ?,Ekkada?,Where?,9
+3,Basic conversation,ఎవరు?,Evaru?,Who?,10
+4,Polite words,దయచేసి,Dayachesi,Please,1
+4,Polite words,ధన్యవాదాలు,Dhanyavadalu,Thank you,2
+4,Polite words,క్షమించండి,Kshaminchandi,Sorry,3
+4,Polite words,కొంచెం వినండి,Konchem vinandi,Excuse me,4
+4,Polite words,పర్వాలేదు,Parvaledu,No problem,5
+4,Polite words,నాకు సహాయం చేయగలరా?,Naaku sahayam cheyagalara?,Can you help me?,6
+4,Polite words,నేను లోపలికి రావచ్చా?,Nenu lopaliki ravachaa?,May I come in?,7
+4,Polite words,కూర్చోండి,Kurchondi,Please sit down,8
+4,Polite words,దయచేసి చెప్పండి,Dayachesi cheppandi,Please tell me,9
+4,Polite words,మళ్ళీ చెప్తారా?,Malli cheptara?,Could you repeat that?,10
+5,Food,నాకు ఆకలిగా ఉంది,Naaku aakaliga undi,I am hungry,1
+5,Food,నాకు దాహంగా ఉంది,Naaku daahanga undi,I am thirsty,2
+5,Food,టిఫిన్ ఏంటి?,Tiffin enti?,What is for breakfast?,3
+5,Food,భోజనం చాలా బాగుంది,Bhojanam chala bagundi,The food is delicious,4
+5,Food,నీళ్లు కావాలా?,Neellu kavalaa?,Do you want water?,5
+5,Food,నేను మాంసం తినను,Nenu maamsam tinanu,I don't eat meat,6
+5,Food,మెనూ తీసుకురండి,Menu teesukurandi,Bring the menu,7
+5,Food,బిల్లు తీసుకురండి,Bill teesukurandi,Check please,8
+5,Food,ఇది కారంగా ఉంది,Idi kaaranga undi,It is spicy,9
+5,Food,ఇంకొంచెం తీసుకోండి,Inkonchem teesukondi,Have some more,10
+6,Numbers,"ఒకటి, రెండు, మూడు","Okati, rendu, moodu","One, two, three",1
+6,Numbers,"నాలుగు, ఐదు, ఆరు","Nalugu, aidu, aaru","Four, five, six",2
+6,Numbers,"ఏడు, ఎనిమిది, తొమ్మిది, పది","Aedu, enimidi, tommidi, padi","Seven, eight, nine, ten",3
+6,Numbers,దీని ధర ఎంత?,Deeni dhara entha?,How much is this?,4
+6,Numbers,నాకు రెండు ఇవ్వండి,Naaku rendu ivvandi,Give me two,5
+6,Numbers,నాకు వంద రూపాయలు కావాలి,Naaku vanda rupayalu kavali,I need hundred rupees,6
+6,Numbers,"ఇరవై, ముప్పై, నలభై","Iravai, muppai, nalabhai","Twenty, thirty, forty",7
+6,Numbers,"యాభై, అరవై, డెబ్బై","Yaabhai, aravai, debbai","Fifty, sixty, seventy",8
+6,Numbers,వెయ్యి రూపాయలు,Veyyi rupayalu,Thousand rupees,9
+6,Numbers,చిల్లర ఉందా?,Chillara undaa?,Do you have change?,10
+7,Time,టైమ్ ఎంత అయింది?,Time entha ayindi?,What time is it?,1
+7,Time,తొమ్మిది గంటలు అయింది,Tommidi gantalu ayindi,It is 9 o'clock,2
+7,Time,రేపు రండి,Repu randi,Come tomorrow,3
+7,Time,నేను నిన్న వెళ్ళాను,Nenu ninna vellanu,I went yesterday,4
+7,Time,ఈరోజు ఏం చేస్తున్నారు?,Eeroju em chesthunnaru?,What are you doing today?,5
+7,Time,ఒక నిమిషం ఆగు,Oka nimisham aagu,Wait a minute,6
+7,Time,ఒక గంటలో వస్తాను,Oka gantalo vastanu,I will come in an hour,7
+7,Time,"ఉదయం, మధ్యాహ్నం, రాత్రి","Udayam, madhyahnam, ratri","Morning, afternoon, night",8
+7,Time,చాలా ఆలస్యం అయింది,Chala aalasyam ayindi,It is very late,9
+7,Time,రేపు కలుద్దాం,Repu kaluddam,See you tomorrow,10
+8,Family,మీ కుటుంబం ఎలా ఉంది?,Mee kutumbam ela undi?,How is your family?,1
+8,Family,అతను ఎవరు?,Atanu evaru?,Who is he?,2
+8,Family,అతను మా తమ్ముడు,Atanu maa tammudu,He is my younger brother,3
+8,Family,ఆమె మా అక్క,Aame maa akka,She is my elder sister,4
+8,Family,అమ్మ మరియు నాన్న,Amma mariyu nanna,Mother and father,5
+8,Family,మీకు పెళ్లి అయిందా?,Meeku pelli ayindaa?,Are you married?,6
+8,Family,నాకు ఇద్దరు పిల్లలు,Naaku iddaru pillalu,I have two kids,7
+8,Family,అతను నా స్నేహితుడు,Atanu naa snehitudu,He is my friend,8
+8,Family,మీ అమ్మానాన్నలు ఎక్కడ ఉంటారు?,Mee ammanannalu ekkada untaru?,Where do your parents live?,9
+8,Family,మా కుటుంబం ఇండియాలో ఉంది,Maa kutumbam India-lo undi,My family is in India,10
+9,Daily activities,నేను త్వరగా నిద్ర లేచాను,Nenu tvaraga nidra lechanu,I woke up early,1
+9,Daily activities,నేను బ్రష్ చేసుకుంటున్నాను,Nenu brush chesukuntunnanu,I am brushing my teeth,2
+9,Daily activities,నేను స్నానం చేస్తున్నాను,Nenu snanam chesthunnanu,I am taking a bath,3
+9,Daily activities,నేను ఆఫీస్ కి వెళ్తున్నాను,Nenu office ki velthunnanu,I am going to work,4
+9,Daily activities,నేను వంట చేస్తున్నాను,Nenu vanta chesthunnanu,I am cooking,5
+9,Daily activities,నేను టీవీ చూస్తున్నాను,Nenu tv chusthunnanu,I am watching TV,6
+9,Daily activities,నేను పుస్తకం చదువుతున్నాను,Nenu pustakam chaduvuthunnanu,I am reading a book,7
+9,Daily activities,నేను ఇల్లు శుభ్రం చేస్తున్నాను,Nenu illu shubhram chesthunnanu,I am cleaning the house,8
+9,Daily activities,నేను పడుకోబోతున్నాను,Nenu padukobothunnanu,I am going to sleep,9
+9,Daily activities,ఈరోజు నేను చాలా అలసిపోయాను,Eeroju nenu chala alasipoyanu,I am very tired today,10
+10,Travel,మీరు ఎక్కడికి వెళ్తున్నారు?,Meeru ekkadiki velthunnaru?,Where are you going?,1
+10,Travel,నేను హైదరాబాద్ వెళ్తున్నాను,Nenu Hyderabad velthunnanu,I am going to Hyderabad,2
+10,Travel,బస్సు ఎప్పుడు ఉంది?,Bus eppudu undi?,When is the bus?,3
+10,Travel,నాకు ఒక టికెట్ ఇవ్వండి,Naaku oka ticket ivvandi,Give me a ticket,4
+10,Travel,ఎంత సమయం పడుతుంది?,Entha samayam padutundi?,How long will it take?,5
+10,Travel,రైలు ఆలస్యంగా వస్తుందా?,Train aalasyanga vastundaa?,Is the train late?,6
+10,Travel,ఎయిర్‌పోర్ట్ ఎక్కడ ఉంది?,Airport ekkada undi?,Where is the airport?,7
+10,Travel,నాకు టాక్సీ కావాలి,Naaku taxi kavali,I want to hire a taxi,8
+10,Travel,ఇక్కడ ఆపండి,Ikkada aapandi,Stop here,9
+10,Travel,ప్రయాణం సురక్షితంగా జరగాలి,Prayanam surakshitanga jaragali,Have a safe journey,10
+11,Shopping,నేను బట్టలు కొనాలి,Nenu battalu konali,I want to buy clothes,1
+11,Shopping,దీని ధర ఎంత?,Deeni dhara entha?,What is the price of this?,2
+11,Shopping,ఇది చాలా ఖరీదైనది,Idi chala khareedainadi,It is too expensive,3
+11,Shopping,కొంచెం తగ్గించండి,Konchem tagginchandi,Give me a discount,4
+11,Shopping,ఇందులో వేరే రంగు ఉందా?,Indulo vere rangu undaa?,Do you have this in a different color?,5
+11,Shopping,నేను ఇది వేసుకుని చూడవచ్చా?,Nenu idi vesukuni chudavachaa?,Can I try this on?,6
+11,Shopping,నాకు ఇది నచ్చలేదు,Naaku idi nachaledu,I don't like this,7
+11,Shopping,నేను ఇది కొంటాను,Nenu idi kontanu,I will buy this,8
+11,Shopping,మీరు కార్డ్ తీసుకుంటారా?,Meeru card teesukuntara?,Do you take cards?,9
+11,Shopping,దయచేసి ప్యాక్ చేయండి,Dayachesi pack cheyandi,Please pack it,10
+12,Asking directions,ఆసుపత్రి ఎక్కడ ఉంది?,Aasupatri ekkada undi?,Where is the hospital?,1
+12,Asking directions,తిన్నగా వెళ్ళండి,Tinnaga vellandi,Go straight,2
+12,Asking directions,ఎడమ వైపు తిరగండి,Edama vaipu tiragandi,Turn left,3
+12,Asking directions,కుడి వైపు తిరగండి,Kudi vaipu tiragandi,Turn right,4
+12,Asking directions,అది గుడి దగ్గర ఉంది,Adi gudi daggara undi,It is near the temple,5
+12,Asking directions,ఇక్కడి నుండి దూరమా?,Ikkadi nundi dooramaa?,Is it far from here?,6
+12,Asking directions,నేను నడుచుకుంటూ వెళ్ళవచ్చా?,Nenu naduchukuntu vellavachaa?,Can I walk there?,7
+12,Asking directions,మ్యాప్‌లో చూపించండి,Map-lo chupinchandi,Show me on the map,8
+12,Asking directions,నేను దారి తప్పాను,Nenu daari tappanu,I am lost,9
+12,Asking directions,స్టేషన్‌కు ఏ దారిలో వెళ్ళాలి?,Station-ku ae daarilo vellali?,Which way to the station?,10
+13,Weather,ఈరోజు చాలా వేడిగా ఉంది,Eeroju chala vediga undi,It is very hot today,1
+13,Weather,వర్షం పడుతోంది,Varsham padutondi,It is raining,2
+13,Weather,బయట చలిగా ఉంది,Bayata chaliga undi,It is cold outside,3
+13,Weather,ఈరోజు వాతావరణం బాగుంది,Eeroju vaathavaranam bagundi,The weather is nice today,4
+13,Weather,ఈరోజు వర్షం పడుతుందా?,Eeroju varsham padutundaa?,Will it rain today?,5
+13,Weather,గొడుగు తీసుకురండి,Godugu teesukurandi,Bring an umbrella,6
+13,Weather,గాలి గట్టిగా వీస్తోంది,Gaali gattiga veestondi,It is very windy,7
+13,Weather,నాకు చెమట పడుతోంది,Naaku chemata padutondi,I am sweating,8
+13,Weather,ఆకాశం మబ్బుగా ఉంది,Aakasam mabbuga undi,The sky is cloudy,9
+13,Weather,నాకు చలికాలం అంటే ఇష్టం,Naaku chalikalam ante ishtam,I like winter,10
+14,Work,నేను ఆఫీస్ లో ఉన్నాను,Nenu office lo unnanu,I am at the office,1
+14,Work,నాకు మీటింగ్ ఉంది,Naaku meeting undi,I have a meeting,2
+14,Work,నేను ఇప్పుడు బిజీగా ఉన్నాను,Nenu ippudu busy-ga unnanu,I am busy right now,3
+14,Work,నాకు ఈమెయిల్ పంపండి,Naaku email pampandi,Send me the email,4
+14,Work,మీరు పని పూర్తి చేశారా?,Meeru pani poorthi chesara?,Did you finish the work?,5
+14,Work,నేను మీకు మళ్ళీ కాల్ చేస్తాను,Nenu meeku malli call chestanu,I will call you back,6
+14,Work,గడువు ఎప్పుడు?,Gaduvu eppudu?,What is the deadline?,7
+14,Work,చాలా బాగా చేశారు,Chala baaga chesaru,Good job,8
+14,Work,నాకు రేపు సెలవు కావాలి,Naaku repu selavu kavali,I need a leave tomorrow,9
+14,Work,దీని గురించి తర్వాత మాట్లాడుకుందాం,Deeni gurinchi tharvatha matladukundam,Let's discuss this later,10
+15,Friends,ఎలా ఉన్నావు మిత్రమా?,Ela unnavu mitramaa?,"How are you, friend?",1
+15,Friends,చాలా కాలం అయింది చూసి,Chala kaalam ayindi choosi,It has been a long time,2
+15,Friends,రేపు కలుద్దాం,Repu kaluddam,Let's meet tomorrow,3
+15,Friends,ఈ వారాంతంలో ఏం చేస్తున్నావు?,Ee vaaranthalo em chesthunnavu?,What are you doing this weekend?,4
+15,Friends,మా ఇంటికి రా,Maa intiki raa,Come to my house,5
+15,Friends,మనం సినిమాకి వెళ్దామా?,Manam cinemaki veldhamaa?,Shall we go to a movie?,6
+15,Friends,నువ్వు నా బెస్ట్ ఫ్రెండ్,Nuvvu naa best friend,You are my best friend,7
+15,Friends,మర్చిపోకు,Marchipoku,Don't forget,8
+15,Friends,ఖాళీగా ఉన్నప్పుడు కాల్ చెయ్యి,Khaaliga unnappudu call cheyyi,Call me when you are free,9
+15,Friends,నీ కోసం నేను చాలా సంతోషిస్తున్నాను,Nee kosam nenu chala santhoshistunnanu,I am so happy for you,10
+16,Phone conversation,"హలో, ఎవరు మాట్లాడుతున్నారు?","Hello, evaru matladutunnaru?","Hello, who is speaking?",1
+16,Phone conversation,నేను రాహుల్ తో మాట్లాడుతున్నానా?,Nenu Rahul tho matladutunnanaa?,Am I speaking to Rahul?,2
+16,Phone conversation,మీ వాయిస్ వినిపించడం లేదు,Mee voice vinipinchadam ledu,I can't hear you,3
+16,Phone conversation,మీ వాయిస్ బ్రేక్ అవుతోంది,Mee voice break avutondi,Your voice is breaking,4
+16,Phone conversation,నేను తర్వాత కాల్ చేస్తాను,Nenu tharvatha call chestanu,I will call you later,5
+16,Phone conversation,అక్కడ రాహుల్ ఉన్నారా?,Akkada Rahul unnara?,Is Rahul there?,6
+16,Phone conversation,రాంగ్ నంబర్,Wrong number,Wrong number,7
+16,Phone conversation,దయచేసి ఫోన్ ఎత్తండి,Dayachesi phone ettandi,Please pick up the phone,8
+16,Phone conversation,నా ఫోన్ బ్యాటరీ అయిపోతోంది,Naa phone battery aypotondi,My battery is low,9
+16,Phone conversation,నాకు మెసేజ్ చెయ్యి,Naaku message cheyyi,Message me,10
+17,Health,నాకు ఒంట్లో బాగోలేదు,Naaku ontlo bagoledu,I am not feeling well,1
+17,Health,నాకు తలనొప్పిగా ఉంది,Naaku thalanoppiga undi,I have a headache,2
+17,Health,నాకు జ్వరంగా ఉంది,Naaku jwaranga undi,I have a fever,3
+17,Health,నేను డాక్టర్‌ని కలవాలి,Nenu doctor-ni kalavali,I need to see a doctor,4
+17,Health,మందుల షాపు ఎక్కడ ఉంది?,Mandula shop ekkada undi?,Where is the pharmacy?,5
+17,Health,నా కడుపు నొప్పుగా ఉంది,Naa kadupu noppiga undi,My stomach hurts,6
+17,Health,మందు వేసుకున్నావా?,Mandu vesukunnavaa?,Did you take medicine?,7
+17,Health,ఇప్పుడు కొంచెం పరవాలేదు,Ippudu konchem paravaledu,I am feeling better,8
+17,Health,విశ్రాంతి తీసుకోండి,Vishranthi teesukondi,Take rest,9
+17,Health,అంబులెన్స్ కి కాల్ చేయండి,Ambulance ki call cheyandi,Call an ambulance,10
+18,Restaurant conversation,ఇద్దరికి టేబుల్ కావాలి,Iddariki table kavali,"A table for two, please",1
+18,Restaurant conversation,ఈరోజు స్పెషల్ ఏంటి?,Eeroju special enti?,What is special today?,2
+18,Restaurant conversation,నాకు బిర్యానీ కావాలి,Naaku biryani kavali,I want biryani,3
+18,Restaurant conversation,కారం కొంచెం తక్కువ వేయండి,Kaaram konchem takkuva veyandi,Make it less spicy,4
+18,Restaurant conversation,రెండు కాఫీలు తీసుకురండి,Rendu coffeelu teesukurandi,Bring two coffees,5
+18,Restaurant conversation,భోజనం చల్లగా ఉంది,Bhojanam challaga undi,The food is cold,6
+18,Restaurant conversation,ఇది శాఖాహారమా?,Idi shakaharamaa?,Is this vegetarian?,7
+18,Restaurant conversation,కొంచెం ఉల్లిపాయలు ఇస్తారా?,Konchem ullipayalu istaara?,Can I get some extra onions?,8
+18,Restaurant conversation,మిగిలిన భోజనం ప్యాక్ చేయండి,Migilina bhojanam pack cheyandi,Pack the leftover food,9
+18,Restaurant conversation,సర్వీస్ చాలా బాగుంది,Service chala bagundi,The service is good,10
+19,Transportation,ఈ బస్సు ఎక్కడికి వెళుతుంది?,Ee bus ekkadiki velutundi?,Where does this bus go?,1
+19,Transportation,ఛార్జీ ఎంత?,Chargee entha?,How much is the fare?,2
+19,Transportation,ఆటో స్టేషన్ కి వెళుతుందా?,Auto station ki velutundaa?,Does the auto go to the station?,3
+19,Transportation,దయచేసి మీటర్ వేయండి,Dayachesi meter veyandi,"Use the meter, please",4
+19,Transportation,నేను యూపీఐ తో పే చేస్తాను,Nenu UPI tho pay chestanu,I will pay by UPI,5
+19,Transportation,రైలు ఎప్పుడు వస్తుంది?,Train eppudu vastundi?,When will the train arrive?,6
+19,Transportation,అది ఏ ప్లాట్‌ఫారమ్ మీదకు వస్తుంది?,Adi ae platform meedaku vastundi?,Which platform is it on?,7
+19,Transportation,దయచేసి నెమ్మదిగా డ్రైవ్ చేయండి,Dayachesi nemmadiga drive cheyandi,Please drive slowly,8
+19,Transportation,నేను ఇక్కడ దిగాలి,Nenu ikkada digali,I need to get down here,9
+19,Transportation,రెండు నిమిషాలు ఆగు,Rendu nimishaalu aagu,Wait for two minutes,10
+20,Making plans,నువ్వు రేపు ఖాళీగా ఉన్నావా?,Nuvvu repu khaaliga unnavaa?,Are you free tomorrow?,1
+20,Making plans,ఈరోజు ప్లాన్ ఏంటి?,Eeroju plan enti?,What is the plan for today?,2
+20,Making plans,మనం షాపింగ్ కి వెళ్దాం,Manam shopping ki veldhaam,Let's go shopping,3
+20,Making plans,మనం ఏ టైమ్ కి కలుద్దాం?,Manam ae time ki kaluddam?,At what time should we meet?,4
+20,Making plans,నేను నిన్ను పిక్ అప్ చేసుకుంటాను,Nenu ninnu pick up chesukuntanu,I will pick you up,5
+20,Making plans,వింటుంటే బాగుంది,Vintunte bagundi,Sounds good,6
+20,Making plans,నాకు వేరే ప్లాన్ ఉంది,Naaku vere plan undi,I have another plan,7
+20,Making plans,మనం రేపు చేద్దామా?,Manam repu cheddamaa?,Can we do it tomorrow?,8
+20,Making plans,నేను దాని కోసం ఎదురు చూస్తున్నాను,Nenu daani kosam eduru chustunnanu,I am looking forward to it,9
+20,Making plans,నాకు తెలియజేయండి,Naaku teliyajeyandi,Let me know,10
+21,Invitations,మిమ్మల్ని మా ఇంటికి ఆహ్వానిస్తున్నాను,Mimmalni maa intiki aahwanistunnanu,I invite you to my house,1
+21,Invitations,దయచేసి పార్టీకి రండి,Dayachesi party-ki randi,Please come to the party,2
+21,Invitations,రేపు నా పుట్టినరోజు,Repu naa puttinarooju,It is my birthday tomorrow,3
+21,Invitations,మీరు వస్తున్నారా?,Meeru vastunnara?,Are you coming?,4
+21,Invitations,మీ కుటుంబాన్ని కూడా తీసుకురండి,Mee kutumbanni kooda teesukurandi,Bring your family,5
+21,Invitations,నేను తప్పకుండా వస్తాను,Nenu thappakunda vastanu,I will definitely come,6
+21,Invitations,"క్షమించండి, నేను రాలేను","Kshaminchandi, nenu ralenu","Sorry, I cannot come",7
+21,Invitations,ఆహ్వానించినందుకు ధన్యవాదాలు,Aahvaninchinanduku dhanyavadalu,Thank you for the invitation,8
+21,Invitations,మేము మీ కోసం ఎదురు చూస్తున్నాము,Memu mee kosam eduru chustunnamu,We are waiting for you,9
+21,Invitations,బాగా ఎంజాయ్ చేయండి,Baaga enjoy cheyandi,Have a great time,10
+22,Requests,మీరు నాకు ఒక సహాయం చేస్తారా?,Meeru naaku oka sahayam chestaara?,Can you do me a favor?,1
+22,Requests,దయచేసి అది నాకు ఇవ్వండి,Dayachesi adi naaku ivvandi,Please give me that,2
+22,Requests,కొంచెం తలుపు మూస్తారా?,Konchem talupu moostara?,Could you close the door?,3
+22,Requests,ఫ్యాన్ వేయండి,Fan veyandi,Turn on the fan,4
+22,Requests,దయచేసి నెమ్మదిగా మాట్లాడండి,Dayachesi nemmadiga matladandi,Please speak slowly,5
+22,Requests,మీ పెన్ తీసుకుంటాను?,Mee pen teesukuntanu?,Can I borrow your pen?,6
+22,Requests,ఒక గ్లాస్ నీళ్లు ఇవ్వండి,Oka glass neellu ivvandi,Give me a glass of water,7
+22,Requests,ఒకసారి చూపించండి,Okasari chupinchandi,Show me once,8
+22,Requests,నాకు వివరించండి,Naaku vivarinchandi,Explain it to me,9
+22,Requests,ఏమీ అనుకోవద్దు,Emee anukovaddu,Don't mind,10
+23,Opinions,మీరు ఏమనుకుంటున్నారు?,Meeru emanukuntunnaru?,What do you think?,1
+23,Opinions,నాకైతే ఇది బాగుందనిపిస్తోంది,Naakaithe idi bagundanipistondi,I think it is good,2
+23,Opinions,నేను మీతో ఏకీభవిస్తున్నాను,Nenu meetho aekeebhavistunnanu,I agree with you,3
+23,Opinions,నేను ఒప్పుకోను,Nenu oppukonu,I don't agree,4
+23,Opinions,నా అభిప్రాయం ప్రకారం,Naa abhiprayam prakaram,In my opinion,5
+23,Opinions,అది నిజమే,Adi nijame,That is right,6
+23,Opinions,అది తప్పు,Adi thappu,That is wrong,7
+23,Opinions,దానికేం పర్వాలేదు,Daanikem parvaledu,It doesn't matter,8
+23,Opinions,మీరు కచ్చితంగా చెప్తున్నారా?,Meeru kachitanga cheptunnara?,Are you sure?,9
+23,Opinions,బహుశా,Bahushaa,Maybe,10
+24,Learning Telugu phrases,నేను తెలుగు నేర్చుకుంటున్నాను,Nenu Telugu nerchukuntunnanu,I am learning Telugu,1
+24,Learning Telugu phrases,నా తెలుగు అంతగా బాగోలేదు,Naa Telugu anthaga bagoledu,My Telugu is not very good,2
+24,Learning Telugu phrases,దీన్ని తెలుగులో ఏమంటారు?,Deenni Telugu-lo emantaru?,What is this called in Telugu?,3
+24,Learning Telugu phrases,తెలుగులో ఎలా చెప్తారు?,Telugu-lo ela cheptaru?,How do you say it in Telugu?,4
+24,Learning Telugu phrases,నేను సరిగ్గానే చెప్పానా?,Nenu sariggane cheppanaa?,Did I say it right?,5
+24,Learning Telugu phrases,దయచేసి నన్ను సరిదిద్దండి,Dayachesi nannu sarididdandi,Please correct me,6
+24,Learning Telugu phrases,అది రాయండి,Adi raayandi,Write it down,7
+24,Learning Telugu phrases,దీని అర్థం ఏమిటి?,Deeni artham emiti?,What does this mean?,8
+24,Learning Telugu phrases,నాకు కొంచెం అర్థమవుతుంది,Naaku konchem arthamavutundi,I understand a little bit,9
+24,Learning Telugu phrases,తెలుగులో మాట్లాడండి,Telugu-lo matladandi,Speak in Telugu,10
+25,Small talk,ఈరోజు వాతావరణం బాగుంది కదా?,Eeroju vaathavaranam bagundi kadaa?,"Nice weather today, right?",1
+25,Small talk,నిన్న మ్యాచ్ చూశారా?,Ninna match choosara?,Did you watch the match?,2
+25,Small talk,వీకెండ్ కి ఏమైనా ప్లాన్స్ ఉన్నాయా?,Weekend ki emaina plans unnayaa?,Any weekend plans?,3
+25,Small talk,పని ఎలా జరుగుతోంది?,Pani ela jarugutondi?,How is the work going?,4
+25,Small talk,కొత్త సంగతులు ఏంటి?,Kotha sangatulu enti?,What's new?,5
+25,Small talk,పెద్దగా ఏమీ లేదు,Peddaga emee ledu,Nothing special,6
+25,Small talk,దాని గురించి నేను విన్నాను,Daani gurinchi nenu vinnanu,I heard about it,7
+25,Small talk,నిజంగానా?,Nijanganaa?,Really?,8
+25,Small talk,అది ఆసక్తికరంగా ఉంది,Adi aasaktikaranga undi,That's interesting,9
+25,Small talk,జాగ్రత్త,Jaagratta,Take care,10
+26,City conversations,ఇది ఏ ఊరు?,Idi ae ooru?,Which city is this?,1
+26,City conversations,హైదరాబాద్ చాలా అందమైన నగరం,Hyderabad chala andamaina nagaram,Hyderabad is a beautiful city,2
+26,City conversations,మార్కెట్ ఎక్కడ ఉంది?,Market ekkada undi?,Where is the market?,3
+26,City conversations,ఈరోజు ట్రాఫిక్ ఎక్కువగా ఉంది,Eeroju traffic ekkuvaga undi,Traffic is heavy today,4
+26,City conversations,దగ్గరలో ఏటీఎం ఉందా?,Daggaralo ATM undaa?,Is there an ATM nearby?,5
+26,City conversations,మంచి హోటల్ ఎక్కడ దొరుకుతుంది?,Manchi hotel ekkada dorukutundi?,Where can I find a good hotel?,6
+26,City conversations,రాత్రిపూట సురక్షితమేనా?,Ratripoota surakshitamenaa?,Is it safe at night?,7
+26,City conversations,ఇక్కడ ప్రసిద్ధ ప్రదేశాలు ఏవి?,Ikkada prasidda pradeshalu aevi?,What are the famous places here?,8
+26,City conversations,రోడ్లు శుభ్రంగా ఉన్నాయి,Roadlu shubhranga unnayi,The roads are clean,9
+26,City conversations,నాకు ఈ నగరం అంటే ఇష్టం,Naaku ee nagaram ante ishtam,I love this city,10
+27,Asking for help,నాకు సహాయం చేయండి,Naaku sahayam cheyandi,Help me,1
+27,Asking for help,ఎవరైనా నాకు సాయం చేస్తారా?,Evaraina naaku saayam chestara?,Can anyone help me?,2
+27,Asking for help,నా బ్యాగ్ పోయింది,Naa bag poyindi,I lost my bag,3
+27,Asking for help,దయచేసి పోలీసులకి కాల్ చేయండి,Dayachesi police-ulaki call cheyandi,Please call the police,4
+27,Asking for help,పోలీస్ స్టేషన్ ఎక్కడ ఉంది?,Police station ekkada undi?,Where is the police station?,5
+27,Asking for help,నాకు ఒక సమస్య ఉంది,Naaku oka samasya undi,I have a problem,6
+27,Asking for help,నేను మీ ఫోన్ వాడుకోవచ్చా?,Nenu mee phone vaadukovachaa?,Can I use your phone?,7
+27,Asking for help,నా డబ్బులు పోయాయి,Naa dabbulu poyayi,I lost my money,8
+27,Asking for help,ఇతను మీకు తెలుసా?,Itanu meeku telusaa?,Do you know him?,9
+27,Asking for help,దయచేసి నాతో ఉండండి,Dayachesi naatho undandi,Please stay with me,10
+28,Understanding fast speech,మీరు ఏమన్నారు?,Meeru emannaru?,What did you say?,1
+28,Understanding fast speech,నాకు అది సరిగ్గా అర్థం కాలేదు,Naaku adi sarigga artham kaaledu,I didn't catch that,2
+28,Understanding fast speech,మళ్ళీ చెప్పండి,Malli cheppandi,Say it again,3
+28,Understanding fast speech,మీకు అర్థమైందా?,Meeku arthamayindaa?,Did you get it?,4
+28,Understanding fast speech,"అవును, నాకు అర్థమైంది","Avunu, naaku arthamayindi","Yes, I understand",5
+28,Understanding fast speech,"లేదు, నాకు అర్థం కాలేదు","Ledu, naaku artham kaledu","No, I don't understand",6
+28,Understanding fast speech,మీరు నాతోనే మాట్లాడుతున్నారా?,Meeru naathone matladutunnara?,Are you talking to me?,7
+28,Understanding fast speech,నా మాట వినండి,Naa maata vinandi,Listen to me,8
+28,Understanding fast speech,కొంచెం గట్టిగా మాట్లాడండి,Konchem gattiga matladandi,Speak a bit louder,9
+28,Understanding fast speech,మీ ఉద్దేశ్యం ఏంటి?,Mee uddhesyam enti?,What do you mean?,10
+29,Conversation practice,మనం తెలుగు ప్రాక్టీస్ చేద్దాం,Manam Telugu practice cheddaam,Let's practice Telugu,1
+29,Conversation practice,నన్ను ఒక ప్రశ్న అడగండి,Nannu oka prashna adagandi,Ask me a question,2
+29,Conversation practice,ఈరోజు ఎలా గడిచింది?,Eeroju ela gadichindi?,How was your day?,3
+29,Conversation practice,బాగానే గడిచింది,Bagane gadichindi,It was good,4
+29,Conversation practice,నాకు ఒక కథ చెప్పండి,Naaku oka katha cheppandi,Tell me a story,5
+29,Conversation practice,మీకు ఇష్టమైన పనులు ఏంటి?,Meeku ishtamaina panulu enti?,What are your hobbies?,6
+29,Conversation practice,నాకు సినిమాలు చూడటం ఇష్టం,Naaku cinemalu chudatam ishtam,I like watching movies,7
+29,Conversation practice,మీరు ఎలాంటి పాటలు వింటారు?,Meeru elanti paatalu vintaru?,What music do you listen to?,8
+29,Conversation practice,ఈరోజు మీరు ఎక్కడికి వెళ్లారు?,Eeroju meeru ekkadiki vellaru?,Where did you go today?,9
+29,Conversation practice,నేను పార్కుకి వెళ్ళాను,Nenu park-ki vellanu,I went to the park,10
+30,Real life conversations,ఈరోజు చాలా బాగా చేశారు!,Eeroju chala baaga chesaru!,Good job today!,1
+30,Real life conversations,మనం కోర్సు పూర్తి చేసాము,Manam course poorthi chesamu,We have finished the course,2
+30,Real life conversations,తెలుగులో మాట్లాడుతూ ఉండండి,Telugu-lo matladutu undandi,Keep speaking Telugu,3
+30,Real life conversations,తప్పులు చేయడానికి భయపడకండి,Thappulu cheyadaniki bhayapadakandi,Don't be afraid to make mistakes,4
+30,Real life conversations,మీరు మెరుగుపడుతున్నారు,Meeru merugupadutunnaru,You are improving,5
+30,Real life conversations,నేర్చుకోవడానికి సమయం పడుతుంది,Nerchukovadaniki samayam padutundi,It takes time to learn,6
+30,Real life conversations,ప్రతిరోజూ సాధన చేయండి,Pratiroju saadhana cheyandi,Practice every day,7
+30,Real life conversations,స్థానిక ప్రజలతో మాట్లాడండి,Sthaanika prajalatho matladandi,Talk to local people,8
+30,Real life conversations,నిన్ను చూస్తుంటే నాకు గర్వంగా ఉంది,Ninnu chustunte naaku garvanga undi,I am proud of you,9
+30,Real life conversations,ధన్యవాదాలు మరియు వీడ్కోలు,Dhanyavadalu mariyu veedkolu,Thank you and goodbye,10

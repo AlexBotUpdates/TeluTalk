@@ -1,0 +1,1682 @@
+[
+    {
+    "day": 1,
+    "topic": "Greetings",
+    "phrases":[
+    {
+    "telugu": "నమస్కారం",
+    "pronunciation": "Namaskaram",
+    "english": "Hello"
+    },
+    {
+    "telugu": "మీరు ఎలా ఉన్నారు?",
+    "pronunciation": "Meeru ela unnaru?",
+    "english": "How are you?"
+    },
+    {
+    "telugu": "నేను బాగున్నాను",
+    "pronunciation": "Nenu bagunnanu",
+    "english": "I am fine"
+    },
+    {
+    "telugu": "శుభోదయం",
+    "pronunciation": "Shubhodayam",
+    "english": "Good morning"
+    },
+    {
+    "telugu": "శుభరాత్రి",
+    "pronunciation": "Shubharatri",
+    "english": "Good night"
+    },
+    {
+    "telugu": "మళ్ళీ కలుద్దాం",
+    "pronunciation": "Malli kaluddam",
+    "english": "See you later"
+    },
+    {
+    "telugu": "భోజనం చేశారా?",
+    "pronunciation": "Bhojanam chesara?",
+    "english": "Had your meal?"
+    },
+    {
+    "telugu": "స్వాగతం",
+    "pronunciation": "Swagatam",
+    "english": "Welcome"
+    },
+    {
+    "telugu": "ఏంటి సంగతులు?",
+    "pronunciation": "Enti sangatulu?",
+    "english": "What's up?"
+    },
+    {
+    "telugu": "అంతా బాగుంది",
+    "pronunciation": "Antha bagundi",
+    "english": "Everything is good"
+    }
+    ]
+    },
+    {
+    "day": 2,
+    "topic": "Introductions",
+    "phrases":[
+    {
+    "telugu": "మీ పేరు ఏమిటి?",
+    "pronunciation": "Mee peru emiti?",
+    "english": "What is your name?"
+    },
+    {
+    "telugu": "నా పేరు రాహుల్",
+    "pronunciation": "Naa peru Rahul",
+    "english": "My name is Rahul"
+    },
+    {
+    "telugu": "మీరు ఎక్కడి నుండి వచ్చారు?",
+    "pronunciation": "Meeru ekkadi nundi vacharu?",
+    "english": "Where are you from?"
+    },
+    {
+    "telugu": "నేను అమెరికా నుండి వచ్చాను",
+    "pronunciation": "Nenu America nundi vachanu",
+    "english": "I am from America"
+    },
+    {
+    "telugu": "మిమ్మల్ని కలవడం సంతోషంగా ఉంది",
+    "pronunciation": "Mimmalni kalavadam santhoshanga undi",
+    "english": "Nice to meet you"
+    },
+    {
+    "telugu": "మీ వయస్సు ఎంత?",
+    "pronunciation": "Mee vayassu entha?",
+    "english": "How old are you?"
+    },
+    {
+    "telugu": "మీరు ఏం చేస్తుంటారు?",
+    "pronunciation": "Meeru em chesthuntaru?",
+    "english": "What do you do?"
+    },
+    {
+    "telugu": "నేను విద్యార్థిని",
+    "pronunciation": "Nenu vidyarthini",
+    "english": "I am a student"
+    },
+    {
+    "telugu": "నేను ఆఫీస్ లో పని చేస్తున్నాను",
+    "pronunciation": "Nenu office lo pani chesthunnanu",
+    "english": "I work in an office"
+    },
+    {
+    "telugu": "మీకు ఇంగ్లీష్ వచ్చా?",
+    "pronunciation": "Meeku English vachaa?",
+    "english": "Do you speak English?"
+    }
+    ]
+    },
+    {
+    "day": 3,
+    "topic": "Basic conversation",
+    "phrases":[
+    {
+    "telugu": "అవును",
+    "pronunciation": "Avunu",
+    "english": "Yes"
+    },
+    {
+    "telugu": "కాదు / లేదు",
+    "pronunciation": "Kaadu / Ledu",
+    "english": "No"
+    },
+    {
+    "telugu": "నాకు తెలియదు",
+    "pronunciation": "Naaku teliyadu",
+    "english": "I don't know"
+    },
+    {
+    "telugu": "నాకు తెలుసు",
+    "pronunciation": "Naaku telusu",
+    "english": "I know"
+    },
+    {
+    "telugu": "ఇది ఏమిటి?",
+    "pronunciation": "Idi emiti?",
+    "english": "What is this?"
+    },
+    {
+    "telugu": "ఏం జరిగింది?",
+    "pronunciation": "Em jarigindi?",
+    "english": "What happened?"
+    },
+    {
+    "telugu": "ఎందుకు?",
+    "pronunciation": "Enduku?",
+    "english": "Why?"
+    },
+    {
+    "telugu": "ఎప్పుడు?",
+    "pronunciation": "Eppudu?",
+    "english": "When?"
+    },
+    {
+    "telugu": "ఎక్కడ?",
+    "pronunciation": "Ekkada?",
+    "english": "Where?"
+    },
+    {
+    "telugu": "ఎవరు?",
+    "pronunciation": "Evaru?",
+    "english": "Who?"
+    }
+    ]
+    },
+    {
+    "day": 4,
+    "topic": "Polite words",
+    "phrases":[
+    {
+    "telugu": "దయచేసి",
+    "pronunciation": "Dayachesi",
+    "english": "Please"
+    },
+    {
+    "telugu": "ధన్యవాదాలు",
+    "pronunciation": "Dhanyavadalu",
+    "english": "Thank you"
+    },
+    {
+    "telugu": "క్షమించండి",
+    "pronunciation": "Kshaminchandi",
+    "english": "Sorry"
+    },
+    {
+    "telugu": "కొంచెం వినండి",
+    "pronunciation": "Konchem vinandi",
+    "english": "Excuse me"
+    },
+    {
+    "telugu": "పర్వాలేదు",
+    "pronunciation": "Parvaledu",
+    "english": "No problem"
+    },
+    {
+    "telugu": "నాకు సహాయం చేయగలరా?",
+    "pronunciation": "Naaku sahayam cheyagalara?",
+    "english": "Can you help me?"
+    },
+    {
+    "telugu": "నేను లోపలికి రావచ్చా?",
+    "pronunciation": "Nenu lopaliki ravachaa?",
+    "english": "May I come in?"
+    },
+    {
+    "telugu": "కూర్చోండి",
+    "pronunciation": "Kurchondi",
+    "english": "Please sit down"
+    },
+    {
+    "telugu": "దయచేసి చెప్పండి",
+    "pronunciation": "Dayachesi cheppandi",
+    "english": "Please tell me"
+    },
+    {
+    "telugu": "మళ్ళీ చెప్తారా?",
+    "pronunciation": "Malli cheptara?",
+    "english": "Could you repeat that?"
+    }
+    ]
+    },
+    {
+    "day": 5,
+    "topic": "Food",
+    "phrases":[
+    {
+    "telugu": "నాకు ఆకలిగా ఉంది",
+    "pronunciation": "Naaku aakaliga undi",
+    "english": "I am hungry"
+    },
+    {
+    "telugu": "నాకు దాహంగా ఉంది",
+    "pronunciation": "Naaku daahanga undi",
+    "english": "I am thirsty"
+    },
+    {
+    "telugu": "టిఫిన్ ఏంటి?",
+    "pronunciation": "Tiffin enti?",
+    "english": "What is for breakfast?"
+    },
+    {
+    "telugu": "భోజనం చాలా బాగుంది",
+    "pronunciation": "Bhojanam chala bagundi",
+    "english": "The food is delicious"
+    },
+    {
+    "telugu": "నీళ్లు కావాలా?",
+    "pronunciation": "Neellu kavalaa?",
+    "english": "Do you want water?"
+    },
+    {
+    "telugu": "నేను మాంసం తినను",
+    "pronunciation": "Nenu maamsam tinanu",
+    "english": "I don't eat meat"
+    },
+    {
+    "telugu": "మెనూ తీసుకురండి",
+    "pronunciation": "Menu teesukurandi",
+    "english": "Bring the menu"
+    },
+    {
+    "telugu": "బిల్లు తీసుకురండి",
+    "pronunciation": "Bill teesukurandi",
+    "english": "Check please"
+    },
+    {
+    "telugu": "ఇది కారంగా ఉంది",
+    "pronunciation": "Idi kaaranga undi",
+    "english": "It is spicy"
+    },
+    {
+    "telugu": "ఇంకొంచెం తీసుకోండి",
+    "pronunciation": "Inkonchem teesukondi",
+    "english": "Have some more"
+    }
+    ]
+    },
+    {
+    "day": 6,
+    "topic": "Numbers",
+    "phrases":[
+    {
+    "telugu": "ఒకటి, రెండు, మూడు",
+    "pronunciation": "Okati, rendu, moodu",
+    "english": "One, two, three"
+    },
+    {
+    "telugu": "నాలుగు, ఐదు, ఆరు",
+    "pronunciation": "Nalugu, aidu, aaru",
+    "english": "Four, five, six"
+    },
+    {
+    "telugu": "ఏడు, ఎనిమిది, తొమ్మిది, పది",
+    "pronunciation": "Aedu, enimidi, tommidi, padi",
+    "english": "Seven, eight, nine, ten"
+    },
+    {
+    "telugu": "దీని ధర ఎంత?",
+    "pronunciation": "Deeni dhara entha?",
+    "english": "How much is this?"
+    },
+    {
+    "telugu": "నాకు రెండు ఇవ్వండి",
+    "pronunciation": "Naaku rendu ivvandi",
+    "english": "Give me two"
+    },
+    {
+    "telugu": "నాకు వంద రూపాయలు కావాలి",
+    "pronunciation": "Naaku vanda rupayalu kavali",
+    "english": "I need hundred rupees"
+    },
+    {
+    "telugu": "ఇరవై, ముప్పై, నలభై",
+    "pronunciation": "Iravai, muppai, nalabhai",
+    "english": "Twenty, thirty, forty"
+    },
+    {
+    "telugu": "యాభై, అరవై, డెబ్బై",
+    "pronunciation": "Yaabhai, aravai, debbai",
+    "english": "Fifty, sixty, seventy"
+    },
+    {
+    "telugu": "వెయ్యి రూపాయలు",
+    "pronunciation": "Veyyi rupayalu",
+    "english": "Thousand rupees"
+    },
+    {
+    "telugu": "చిల్లర ఉందా?",
+    "pronunciation": "Chillara undaa?",
+    "english": "Do you have change?"
+    }
+    ]
+    },
+    {
+    "day": 7,
+    "topic": "Time",
+    "phrases":[
+    {
+    "telugu": "టైమ్ ఎంత అయింది?",
+    "pronunciation": "Time entha ayindi?",
+    "english": "What time is it?"
+    },
+    {
+    "telugu": "తొమ్మిది గంటలు అయింది",
+    "pronunciation": "Tommidi gantalu ayindi",
+    "english": "It is 9 o'clock"
+    },
+    {
+    "telugu": "రేపు రండి",
+    "pronunciation": "Repu randi",
+    "english": "Come tomorrow"
+    },
+    {
+    "telugu": "నేను నిన్న వెళ్ళాను",
+    "pronunciation": "Nenu ninna vellanu",
+    "english": "I went yesterday"
+    },
+    {
+    "telugu": "ఈరోజు ఏం చేస్తున్నారు?",
+    "pronunciation": "Eeroju em chesthunnaru?",
+    "english": "What are you doing today?"
+    },
+    {
+    "telugu": "ఒక నిమిషం ఆగు",
+    "pronunciation": "Oka nimisham aagu",
+    "english": "Wait a minute"
+    },
+    {
+    "telugu": "ఒక గంటలో వస్తాను",
+    "pronunciation": "Oka gantalo vastanu",
+    "english": "I will come in an hour"
+    },
+    {
+    "telugu": "ఉదయం, మధ్యాహ్నం, రాత్రి",
+    "pronunciation": "Udayam, madhyahnam, ratri",
+    "english": "Morning, afternoon, night"
+    },
+    {
+    "telugu": "చాలా ఆలస్యం అయింది",
+    "pronunciation": "Chala aalasyam ayindi",
+    "english": "It is very late"
+    },
+    {
+    "telugu": "రేపు కలుద్దాం",
+    "pronunciation": "Repu kaluddam",
+    "english": "See you tomorrow"
+    }
+    ]
+    },
+    {
+    "day": 8,
+    "topic": "Family",
+    "phrases":[
+    {
+    "telugu": "మీ కుటుంబం ఎలా ఉంది?",
+    "pronunciation": "Mee kutumbam ela undi?",
+    "english": "How is your family?"
+    },
+    {
+    "telugu": "అతను ఎవరు?",
+    "pronunciation": "Atanu evaru?",
+    "english": "Who is he?"
+    },
+    {
+    "telugu": "అతను మా తమ్ముడు",
+    "pronunciation": "Atanu maa tammudu",
+    "english": "He is my younger brother"
+    },
+    {
+    "telugu": "ఆమె మా అక్క",
+    "pronunciation": "Aame maa akka",
+    "english": "She is my elder sister"
+    },
+    {
+    "telugu": "అమ్మ మరియు నాన్న",
+    "pronunciation": "Amma mariyu nanna",
+    "english": "Mother and father"
+    },
+    {
+    "telugu": "మీకు పెళ్లి అయిందా?",
+    "pronunciation": "Meeku pelli ayindaa?",
+    "english": "Are you married?"
+    },
+    {
+    "telugu": "నాకు ఇద్దరు పిల్లలు",
+    "pronunciation": "Naaku iddaru pillalu",
+    "english": "I have two kids"
+    },
+    {
+    "telugu": "అతను నా స్నేహితుడు",
+    "pronunciation": "Atanu naa snehitudu",
+    "english": "He is my friend"
+    },
+    {
+    "telugu": "మీ అమ్మానాన్నలు ఎక్కడ ఉంటారు?",
+    "pronunciation": "Mee ammanannalu ekkada untaru?",
+    "english": "Where do your parents live?"
+    },
+    {
+    "telugu": "మా కుటుంబం ఇండియాలో ఉంది",
+    "pronunciation": "Maa kutumbam India-lo undi",
+    "english": "My family is in India"
+    }
+    ]
+    },
+    {
+    "day": 9,
+    "topic": "Daily activities",
+    "phrases":[
+    {
+    "telugu": "నేను త్వరగా నిద్ర లేచాను",
+    "pronunciation": "Nenu tvaraga nidra lechanu",
+    "english": "I woke up early"
+    },
+    {
+    "telugu": "నేను బ్రష్ చేసుకుంటున్నాను",
+    "pronunciation": "Nenu brush chesukuntunnanu",
+    "english": "I am brushing my teeth"
+    },
+    {
+    "telugu": "నేను స్నానం చేస్తున్నాను",
+    "pronunciation": "Nenu snanam chesthunnanu",
+    "english": "I am taking a bath"
+    },
+    {
+    "telugu": "నేను ఆఫీస్ కి వెళ్తున్నాను",
+    "pronunciation": "Nenu office ki velthunnanu",
+    "english": "I am going to work"
+    },
+    {
+    "telugu": "నేను వంట చేస్తున్నాను",
+    "pronunciation": "Nenu vanta chesthunnanu",
+    "english": "I am cooking"
+    },
+    {
+    "telugu": "నేను టీవీ చూస్తున్నాను",
+    "pronunciation": "Nenu tv chusthunnanu",
+    "english": "I am watching TV"
+    },
+    {
+    "telugu": "నేను పుస్తకం చదువుతున్నాను",
+    "pronunciation": "Nenu pustakam chaduvuthunnanu",
+    "english": "I am reading a book"
+    },
+    {
+    "telugu": "నేను ఇల్లు శుభ్రం చేస్తున్నాను",
+    "pronunciation": "Nenu illu shubhram chesthunnanu",
+    "english": "I am cleaning the house"
+    },
+    {
+    "telugu": "నేను పడుకోబోతున్నాను",
+    "pronunciation": "Nenu padukobothunnanu",
+    "english": "I am going to sleep"
+    },
+    {
+    "telugu": "ఈరోజు నేను చాలా అలసిపోయాను",
+    "pronunciation": "Eeroju nenu chala alasipoyanu",
+    "english": "I am very tired today"
+    }
+    ]
+    },
+    {
+    "day": 10,
+    "topic": "Travel",
+    "phrases":[
+    {
+    "telugu": "మీరు ఎక్కడికి వెళ్తున్నారు?",
+    "pronunciation": "Meeru ekkadiki velthunnaru?",
+    "english": "Where are you going?"
+    },
+    {
+    "telugu": "నేను హైదరాబాద్ వెళ్తున్నాను",
+    "pronunciation": "Nenu Hyderabad velthunnanu",
+    "english": "I am going to Hyderabad"
+    },
+    {
+    "telugu": "బస్సు ఎప్పుడు ఉంది?",
+    "pronunciation": "Bus eppudu undi?",
+    "english": "When is the bus?"
+    },
+    {
+    "telugu": "నాకు ఒక టికెట్ ఇవ్వండి",
+    "pronunciation": "Naaku oka ticket ivvandi",
+    "english": "Give me a ticket"
+    },
+    {
+    "telugu": "ఎంత సమయం పడుతుంది?",
+    "pronunciation": "Entha samayam padutundi?",
+    "english": "How long will it take?"
+    },
+    {
+    "telugu": "రైలు ఆలస్యంగా వస్తుందా?",
+    "pronunciation": "Train aalasyanga vastundaa?",
+    "english": "Is the train late?"
+    },
+    {
+    "telugu": "ఎయిర్‌పోర్ట్ ఎక్కడ ఉంది?",
+    "pronunciation": "Airport ekkada undi?",
+    "english": "Where is the airport?"
+    },
+    {
+    "telugu": "నాకు టాక్సీ కావాలి",
+    "pronunciation": "Naaku taxi kavali",
+    "english": "I want to hire a taxi"
+    },
+    {
+    "telugu": "ఇక్కడ ఆపండి",
+    "pronunciation": "Ikkada aapandi",
+    "english": "Stop here"
+    },
+    {
+    "telugu": "ప్రయాణం సురక్షితంగా జరగాలి",
+    "pronunciation": "Prayanam surakshitanga jaragali",
+    "english": "Have a safe journey"
+    }
+    ]
+    },
+    {
+    "day": 11,
+    "topic": "Shopping",
+    "phrases":[
+    {
+    "telugu": "నేను బట్టలు కొనాలి",
+    "pronunciation": "Nenu battalu konali",
+    "english": "I want to buy clothes"
+    },
+    {
+    "telugu": "దీని ధర ఎంత?",
+    "pronunciation": "Deeni dhara entha?",
+    "english": "What is the price of this?"
+    },
+    {
+    "telugu": "ఇది చాలా ఖరీదైనది",
+    "pronunciation": "Idi chala khareedainadi",
+    "english": "It is too expensive"
+    },
+    {
+    "telugu": "కొంచెం తగ్గించండి",
+    "pronunciation": "Konchem tagginchandi",
+    "english": "Give me a discount"
+    },
+    {
+    "telugu": "ఇందులో వేరే రంగు ఉందా?",
+    "pronunciation": "Indulo vere rangu undaa?",
+    "english": "Do you have this in a different color?"
+    },
+    {
+    "telugu": "నేను ఇది వేసుకుని చూడవచ్చా?",
+    "pronunciation": "Nenu idi vesukuni chudavachaa?",
+    "english": "Can I try this on?"
+    },
+    {
+    "telugu": "నాకు ఇది నచ్చలేదు",
+    "pronunciation": "Naaku idi nachaledu",
+    "english": "I don't like this"
+    },
+    {
+    "telugu": "నేను ఇది కొంటాను",
+    "pronunciation": "Nenu idi kontanu",
+    "english": "I will buy this"
+    },
+    {
+    "telugu": "మీరు కార్డ్ తీసుకుంటారా?",
+    "pronunciation": "Meeru card teesukuntara?",
+    "english": "Do you take cards?"
+    },
+    {
+    "telugu": "దయచేసి ప్యాక్ చేయండి",
+    "pronunciation": "Dayachesi pack cheyandi",
+    "english": "Please pack it"
+    }
+    ]
+    },
+    {
+    "day": 12,
+    "topic": "Asking directions",
+    "phrases":[
+    {
+    "telugu": "ఆసుపత్రి ఎక్కడ ఉంది?",
+    "pronunciation": "Aasupatri ekkada undi?",
+    "english": "Where is the hospital?"
+    },
+    {
+    "telugu": "తిన్నగా వెళ్ళండి",
+    "pronunciation": "Tinnaga vellandi",
+    "english": "Go straight"
+    },
+    {
+    "telugu": "ఎడమ వైపు తిరగండి",
+    "pronunciation": "Edama vaipu tiragandi",
+    "english": "Turn left"
+    },
+    {
+    "telugu": "కుడి వైపు తిరగండి",
+    "pronunciation": "Kudi vaipu tiragandi",
+    "english": "Turn right"
+    },
+    {
+    "telugu": "అది గుడి దగ్గర ఉంది",
+    "pronunciation": "Adi gudi daggara undi",
+    "english": "It is near the temple"
+    },
+    {
+    "telugu": "ఇక్కడి నుండి దూరమా?",
+    "pronunciation": "Ikkadi nundi dooramaa?",
+    "english": "Is it far from here?"
+    },
+    {
+    "telugu": "నేను నడుచుకుంటూ వెళ్ళవచ్చా?",
+    "pronunciation": "Nenu naduchukuntu vellavachaa?",
+    "english": "Can I walk there?"
+    },
+    {
+    "telugu": "మ్యాప్‌లో చూపించండి",
+    "pronunciation": "Map-lo chupinchandi",
+    "english": "Show me on the map"
+    },
+    {
+    "telugu": "నేను దారి తప్పాను",
+    "pronunciation": "Nenu daari tappanu",
+    "english": "I am lost"
+    },
+    {
+    "telugu": "స్టేషన్‌కు ఏ దారిలో వెళ్ళాలి?",
+    "pronunciation": "Station-ku ae daarilo vellali?",
+    "english": "Which way to the station?"
+    }
+    ]
+    },
+    {
+    "day": 13,
+    "topic": "Weather",
+    "phrases":[
+    {
+    "telugu": "ఈరోజు చాలా వేడిగా ఉంది",
+    "pronunciation": "Eeroju chala vediga undi",
+    "english": "It is very hot today"
+    },
+    {
+    "telugu": "వర్షం పడుతోంది",
+    "pronunciation": "Varsham padutondi",
+    "english": "It is raining"
+    },
+    {
+    "telugu": "బయట చలిగా ఉంది",
+    "pronunciation": "Bayata chaliga undi",
+    "english": "It is cold outside"
+    },
+    {
+    "telugu": "ఈరోజు వాతావరణం బాగుంది",
+    "pronunciation": "Eeroju vaathavaranam bagundi",
+    "english": "The weather is nice today"
+    },
+    {
+    "telugu": "ఈరోజు వర్షం పడుతుందా?",
+    "pronunciation": "Eeroju varsham padutundaa?",
+    "english": "Will it rain today?"
+    },
+    {
+    "telugu": "గొడుగు తీసుకురండి",
+    "pronunciation": "Godugu teesukurandi",
+    "english": "Bring an umbrella"
+    },
+    {
+    "telugu": "గాలి గట్టిగా వీస్తోంది",
+    "pronunciation": "Gaali gattiga veestondi",
+    "english": "It is very windy"
+    },
+    {
+    "telugu": "నాకు చెమట పడుతోంది",
+    "pronunciation": "Naaku chemata padutondi",
+    "english": "I am sweating"
+    },
+    {
+    "telugu": "ఆకాశం మబ్బుగా ఉంది",
+    "pronunciation": "Aakasam mabbuga undi",
+    "english": "The sky is cloudy"
+    },
+    {
+    "telugu": "నాకు చలికాలం అంటే ఇష్టం",
+    "pronunciation": "Naaku chalikalam ante ishtam",
+    "english": "I like winter"
+    }
+    ]
+    },
+    {
+    "day": 14,
+    "topic": "Work",
+    "phrases":[
+    {
+    "telugu": "నేను ఆఫీస్ లో ఉన్నాను",
+    "pronunciation": "Nenu office lo unnanu",
+    "english": "I am at the office"
+    },
+    {
+    "telugu": "నాకు మీటింగ్ ఉంది",
+    "pronunciation": "Naaku meeting undi",
+    "english": "I have a meeting"
+    },
+    {
+    "telugu": "నేను ఇప్పుడు బిజీగా ఉన్నాను",
+    "pronunciation": "Nenu ippudu busy-ga unnanu",
+    "english": "I am busy right now"
+    },
+    {
+    "telugu": "నాకు ఈమెయిల్ పంపండి",
+    "pronunciation": "Naaku email pampandi",
+    "english": "Send me the email"
+    },
+    {
+    "telugu": "మీరు పని పూర్తి చేశారా?",
+    "pronunciation": "Meeru pani poorthi chesara?",
+    "english": "Did you finish the work?"
+    },
+    {
+    "telugu": "నేను మీకు మళ్ళీ కాల్ చేస్తాను",
+    "pronunciation": "Nenu meeku malli call chestanu",
+    "english": "I will call you back"
+    },
+    {
+    "telugu": "గడువు ఎప్పుడు?",
+    "pronunciation": "Gaduvu eppudu?",
+    "english": "What is the deadline?"
+    },
+    {
+    "telugu": "చాలా బాగా చేశారు",
+    "pronunciation": "Chala baaga chesaru",
+    "english": "Good job"
+    },
+    {
+    "telugu": "నాకు రేపు సెలవు కావాలి",
+    "pronunciation": "Naaku repu selavu kavali",
+    "english": "I need a leave tomorrow"
+    },
+    {
+    "telugu": "దీని గురించి తర్వాత మాట్లాడుకుందాం",
+    "pronunciation": "Deeni gurinchi tharvatha matladukundam",
+    "english": "Let's discuss this later"
+    }
+    ]
+    },
+    {
+    "day": 15,
+    "topic": "Friends",
+    "phrases":[
+    {
+    "telugu": "ఎలా ఉన్నావు మిత్రమా?",
+    "pronunciation": "Ela unnavu mitramaa?",
+    "english": "How are you, friend?"
+    },
+    {
+    "telugu": "చాలా కాలం అయింది చూసి",
+    "pronunciation": "Chala kaalam ayindi choosi",
+    "english": "It has been a long time"
+    },
+    {
+    "telugu": "రేపు కలుద్దాం",
+    "pronunciation": "Repu kaluddam",
+    "english": "Let's meet tomorrow"
+    },
+    {
+    "telugu": "ఈ వారాంతంలో ఏం చేస్తున్నావు?",
+    "pronunciation": "Ee vaaranthalo em chesthunnavu?",
+    "english": "What are you doing this weekend?"
+    },
+    {
+    "telugu": "మా ఇంటికి రా",
+    "pronunciation": "Maa intiki raa",
+    "english": "Come to my house"
+    },
+    {
+    "telugu": "మనం సినిమాకి వెళ్దామా?",
+    "pronunciation": "Manam cinemaki veldhamaa?",
+    "english": "Shall we go to a movie?"
+    },
+    {
+    "telugu": "నువ్వు నా బెస్ట్ ఫ్రెండ్",
+    "pronunciation": "Nuvvu naa best friend",
+    "english": "You are my best friend"
+    },
+    {
+    "telugu": "మర్చిపోకు",
+    "pronunciation": "Marchipoku",
+    "english": "Don't forget"
+    },
+    {
+    "telugu": "ఖాళీగా ఉన్నప్పుడు కాల్ చెయ్యి",
+    "pronunciation": "Khaaliga unnappudu call cheyyi",
+    "english": "Call me when you are free"
+    },
+    {
+    "telugu": "నీ కోసం నేను చాలా సంతోషిస్తున్నాను",
+    "pronunciation": "Nee kosam nenu chala santhoshistunnanu",
+    "english": "I am so happy for you"
+    }
+    ]
+    },
+    {
+    "day": 16,
+    "topic": "Phone conversation",
+    "phrases":[
+    {
+    "telugu": "హలో, ఎవరు మాట్లాడుతున్నారు?",
+    "pronunciation": "Hello, evaru matladutunnaru?",
+    "english": "Hello, who is speaking?"
+    },
+    {
+    "telugu": "నేను రాహుల్ తో మాట్లాడుతున్నానా?",
+    "pronunciation": "Nenu Rahul tho matladutunnanaa?",
+    "english": "Am I speaking to Rahul?"
+    },
+    {
+    "telugu": "మీ వాయిస్ వినిపించడం లేదు",
+    "pronunciation": "Mee voice vinipinchadam ledu",
+    "english": "I can't hear you"
+    },
+    {
+    "telugu": "మీ వాయిస్ బ్రేక్ అవుతోంది",
+    "pronunciation": "Mee voice break avutondi",
+    "english": "Your voice is breaking"
+    },
+    {
+    "telugu": "నేను తర్వాత కాల్ చేస్తాను",
+    "pronunciation": "Nenu tharvatha call chestanu",
+    "english": "I will call you later"
+    },
+    {
+    "telugu": "అక్కడ రాహుల్ ఉన్నారా?",
+    "pronunciation": "Akkada Rahul unnara?",
+    "english": "Is Rahul there?"
+    },
+    {
+    "telugu": "రాంగ్ నంబర్",
+    "pronunciation": "Wrong number",
+    "english": "Wrong number"
+    },
+    {
+    "telugu": "దయచేసి ఫోన్ ఎత్తండి",
+    "pronunciation": "Dayachesi phone ettandi",
+    "english": "Please pick up the phone"
+    },
+    {
+    "telugu": "నా ఫోన్ బ్యాటరీ అయిపోతోంది",
+    "pronunciation": "Naa phone battery aypotondi",
+    "english": "My battery is low"
+    },
+    {
+    "telugu": "నాకు మెసేజ్ చెయ్యి",
+    "pronunciation": "Naaku message cheyyi",
+    "english": "Message me"
+    }
+    ]
+    },
+    {
+    "day": 17,
+    "topic": "Health",
+    "phrases":[
+    {
+    "telugu": "నాకు ఒంట్లో బాగోలేదు",
+    "pronunciation": "Naaku ontlo bagoledu",
+    "english": "I am not feeling well"
+    },
+    {
+    "telugu": "నాకు తలనొప్పిగా ఉంది",
+    "pronunciation": "Naaku thalanoppiga undi",
+    "english": "I have a headache"
+    },
+    {
+    "telugu": "నాకు జ్వరంగా ఉంది",
+    "pronunciation": "Naaku jwaranga undi",
+    "english": "I have a fever"
+    },
+    {
+    "telugu": "నేను డాక్టర్‌ని కలవాలి",
+    "pronunciation": "Nenu doctor-ni kalavali",
+    "english": "I need to see a doctor"
+    },
+    {
+    "telugu": "మందుల షాపు ఎక్కడ ఉంది?",
+    "pronunciation": "Mandula shop ekkada undi?",
+    "english": "Where is the pharmacy?"
+    },
+    {
+    "telugu": "నా కడుపు నొప్పుగా ఉంది",
+    "pronunciation": "Naa kadupu noppiga undi",
+    "english": "My stomach hurts"
+    },
+    {
+    "telugu": "మందు వేసుకున్నావా?",
+    "pronunciation": "Mandu vesukunnavaa?",
+    "english": "Did you take medicine?"
+    },
+    {
+    "telugu": "ఇప్పుడు కొంచెం పరవాలేదు",
+    "pronunciation": "Ippudu konchem paravaledu",
+    "english": "I am feeling better"
+    },
+    {
+    "telugu": "విశ్రాంతి తీసుకోండి",
+    "pronunciation": "Vishranthi teesukondi",
+    "english": "Take rest"
+    },
+    {
+    "telugu": "అంబులెన్స్ కి కాల్ చేయండి",
+    "pronunciation": "Ambulance ki call cheyandi",
+    "english": "Call an ambulance"
+    }
+    ]
+    },
+    {
+    "day": 18,
+    "topic": "Restaurant conversation",
+    "phrases":[
+    {
+    "telugu": "ఇద్దరికి టేబుల్ కావాలి",
+    "pronunciation": "Iddariki table kavali",
+    "english": "A table for two, please"
+    },
+    {
+    "telugu": "ఈరోజు స్పెషల్ ఏంటి?",
+    "pronunciation": "Eeroju special enti?",
+    "english": "What is special today?"
+    },
+    {
+    "telugu": "నాకు బిర్యానీ కావాలి",
+    "pronunciation": "Naaku biryani kavali",
+    "english": "I want biryani"
+    },
+    {
+    "telugu": "కారం కొంచెం తక్కువ వేయండి",
+    "pronunciation": "Kaaram konchem takkuva veyandi",
+    "english": "Make it less spicy"
+    },
+    {
+    "telugu": "రెండు కాఫీలు తీసుకురండి",
+    "pronunciation": "Rendu coffeelu teesukurandi",
+    "english": "Bring two coffees"
+    },
+    {
+    "telugu": "భోజనం చల్లగా ఉంది",
+    "pronunciation": "Bhojanam challaga undi",
+    "english": "The food is cold"
+    },
+    {
+    "telugu": "ఇది శాఖాహారమా?",
+    "pronunciation": "Idi shakaharamaa?",
+    "english": "Is this vegetarian?"
+    },
+    {
+    "telugu": "కొంచెం ఉల్లిపాయలు ఇస్తారా?",
+    "pronunciation": "Konchem ullipayalu istaara?",
+    "english": "Can I get some extra onions?"
+    },
+    {
+    "telugu": "మిగిలిన భోజనం ప్యాక్ చేయండి",
+    "pronunciation": "Migilina bhojanam pack cheyandi",
+    "english": "Pack the leftover food"
+    },
+    {
+    "telugu": "సర్వీస్ చాలా బాగుంది",
+    "pronunciation": "Service chala bagundi",
+    "english": "The service is good"
+    }
+    ]
+    },
+    {
+    "day": 19,
+    "topic": "Transportation",
+    "phrases":[
+    {
+    "telugu": "ఈ బస్సు ఎక్కడికి వెళుతుంది?",
+    "pronunciation": "Ee bus ekkadiki velutundi?",
+    "english": "Where does this bus go?"
+    },
+    {
+    "telugu": "ఛార్జీ ఎంత?",
+    "pronunciation": "Chargee entha?",
+    "english": "How much is the fare?"
+    },
+    {
+    "telugu": "ఆటో స్టేషన్ కి వెళుతుందా?",
+    "pronunciation": "Auto station ki velutundaa?",
+    "english": "Does the auto go to the station?"
+    },
+    {
+    "telugu": "దయచేసి మీటర్ వేయండి",
+    "pronunciation": "Dayachesi meter veyandi",
+    "english": "Use the meter, please"
+    },
+    {
+    "telugu": "నేను యూపీఐ తో పే చేస్తాను",
+    "pronunciation": "Nenu UPI tho pay chestanu",
+    "english": "I will pay by UPI"
+    },
+    {
+    "telugu": "రైలు ఎప్పుడు వస్తుంది?",
+    "pronunciation": "Train eppudu vastundi?",
+    "english": "When will the train arrive?"
+    },
+    {
+    "telugu": "అది ఏ ప్లాట్‌ఫారమ్ మీదకు వస్తుంది?",
+    "pronunciation": "Adi ae platform meedaku vastundi?",
+    "english": "Which platform is it on?"
+    },
+    {
+    "telugu": "దయచేసి నెమ్మదిగా డ్రైవ్ చేయండి",
+    "pronunciation": "Dayachesi nemmadiga drive cheyandi",
+    "english": "Please drive slowly"
+    },
+    {
+    "telugu": "నేను ఇక్కడ దిగాలి",
+    "pronunciation": "Nenu ikkada digali",
+    "english": "I need to get down here"
+    },
+    {
+    "telugu": "రెండు నిమిషాలు ఆగు",
+    "pronunciation": "Rendu nimishaalu aagu",
+    "english": "Wait for two minutes"
+    }
+    ]
+    },
+    {
+    "day": 20,
+    "topic": "Making plans",
+    "phrases":[
+    {
+    "telugu": "నువ్వు రేపు ఖాళీగా ఉన్నావా?",
+    "pronunciation": "Nuvvu repu khaaliga unnavaa?",
+    "english": "Are you free tomorrow?"
+    },
+    {
+    "telugu": "ఈరోజు ప్లాన్ ఏంటి?",
+    "pronunciation": "Eeroju plan enti?",
+    "english": "What is the plan for today?"
+    },
+    {
+    "telugu": "మనం షాపింగ్ కి వెళ్దాం",
+    "pronunciation": "Manam shopping ki veldhaam",
+    "english": "Let's go shopping"
+    },
+    {
+    "telugu": "మనం ఏ టైమ్ కి కలుద్దాం?",
+    "pronunciation": "Manam ae time ki kaluddam?",
+    "english": "At what time should we meet?"
+    },
+    {
+    "telugu": "నేను నిన్ను పిక్ అప్ చేసుకుంటాను",
+    "pronunciation": "Nenu ninnu pick up chesukuntanu",
+    "english": "I will pick you up"
+    },
+    {
+    "telugu": "వింటుంటే బాగుంది",
+    "pronunciation": "Vintunte bagundi",
+    "english": "Sounds good"
+    },
+    {
+    "telugu": "నాకు వేరే ప్లాన్ ఉంది",
+    "pronunciation": "Naaku vere plan undi",
+    "english": "I have another plan"
+    },
+    {
+    "telugu": "మనం రేపు చేద్దామా?",
+    "pronunciation": "Manam repu cheddamaa?",
+    "english": "Can we do it tomorrow?"
+    },
+    {
+    "telugu": "నేను దాని కోసం ఎదురు చూస్తున్నాను",
+    "pronunciation": "Nenu daani kosam eduru chustunnanu",
+    "english": "I am looking forward to it"
+    },
+    {
+    "telugu": "నాకు తెలియజేయండి",
+    "pronunciation": "Naaku teliyajeyandi",
+    "english": "Let me know"
+    }
+    ]
+    },
+    {
+    "day": 21,
+    "topic": "Invitations",
+    "phrases":[
+    {
+    "telugu": "మిమ్మల్ని మా ఇంటికి ఆహ్వానిస్తున్నాను",
+    "pronunciation": "Mimmalni maa intiki aahwanistunnanu",
+    "english": "I invite you to my house"
+    },
+    {
+    "telugu": "దయచేసి పార్టీకి రండి",
+    "pronunciation": "Dayachesi party-ki randi",
+    "english": "Please come to the party"
+    },
+    {
+    "telugu": "రేపు నా పుట్టినరోజు",
+    "pronunciation": "Repu naa puttinarooju",
+    "english": "It is my birthday tomorrow"
+    },
+    {
+    "telugu": "మీరు వస్తున్నారా?",
+    "pronunciation": "Meeru vastunnara?",
+    "english": "Are you coming?"
+    },
+    {
+    "telugu": "మీ కుటుంబాన్ని కూడా తీసుకురండి",
+    "pronunciation": "Mee kutumbanni kooda teesukurandi",
+    "english": "Bring your family"
+    },
+    {
+    "telugu": "నేను తప్పకుండా వస్తాను",
+    "pronunciation": "Nenu thappakunda vastanu",
+    "english": "I will definitely come"
+    },
+    {
+    "telugu": "క్షమించండి, నేను రాలేను",
+    "pronunciation": "Kshaminchandi, nenu ralenu",
+    "english": "Sorry, I cannot come"
+    },
+    {
+    "telugu": "ఆహ్వానించినందుకు ధన్యవాదాలు",
+    "pronunciation": "Aahvaninchinanduku dhanyavadalu",
+    "english": "Thank you for the invitation"
+    },
+    {
+    "telugu": "మేము మీ కోసం ఎదురు చూస్తున్నాము",
+    "pronunciation": "Memu mee kosam eduru chustunnamu",
+    "english": "We are waiting for you"
+    },
+    {
+    "telugu": "బాగా ఎంజాయ్ చేయండి",
+    "pronunciation": "Baaga enjoy cheyandi",
+    "english": "Have a great time"
+    }
+    ]
+    },
+    {
+    "day": 22,
+    "topic": "Requests",
+    "phrases":[
+    {
+    "telugu": "మీరు నాకు ఒక సహాయం చేస్తారా?",
+    "pronunciation": "Meeru naaku oka sahayam chestaara?",
+    "english": "Can you do me a favor?"
+    },
+    {
+    "telugu": "దయచేసి అది నాకు ఇవ్వండి",
+    "pronunciation": "Dayachesi adi naaku ivvandi",
+    "english": "Please give me that"
+    },
+    {
+    "telugu": "కొంచెం తలుపు మూస్తారా?",
+    "pronunciation": "Konchem talupu moostara?",
+    "english": "Could you close the door?"
+    },
+    {
+    "telugu": "ఫ్యాన్ వేయండి",
+    "pronunciation": "Fan veyandi",
+    "english": "Turn on the fan"
+    },
+    {
+    "telugu": "దయచేసి నెమ్మదిగా మాట్లాడండి",
+    "pronunciation": "Dayachesi nemmadiga matladandi",
+    "english": "Please speak slowly"
+    },
+    {
+    "telugu": "మీ పెన్ తీసుకుంటాను?",
+    "pronunciation": "Mee pen teesukuntanu?",
+    "english": "Can I borrow your pen?"
+    },
+    {
+    "telugu": "ఒక గ్లాస్ నీళ్లు ఇవ్వండి",
+    "pronunciation": "Oka glass neellu ivvandi",
+    "english": "Give me a glass of water"
+    },
+    {
+    "telugu": "ఒకసారి చూపించండి",
+    "pronunciation": "Okasari chupinchandi",
+    "english": "Show me once"
+    },
+    {
+    "telugu": "నాకు వివరించండి",
+    "pronunciation": "Naaku vivarinchandi",
+    "english": "Explain it to me"
+    },
+    {
+    "telugu": "ఏమీ అనుకోవద్దు",
+    "pronunciation": "Emee anukovaddu",
+    "english": "Don't mind"
+    }
+    ]
+    },
+    {
+    "day": 23,
+    "topic": "Opinions",
+    "phrases":[
+    {
+    "telugu": "మీరు ఏమనుకుంటున్నారు?",
+    "pronunciation": "Meeru emanukuntunnaru?",
+    "english": "What do you think?"
+    },
+    {
+    "telugu": "నాకైతే ఇది బాగుందనిపిస్తోంది",
+    "pronunciation": "Naakaithe idi bagundanipistondi",
+    "english": "I think it is good"
+    },
+    {
+    "telugu": "నేను మీతో ఏకీభవిస్తున్నాను",
+    "pronunciation": "Nenu meetho aekeebhavistunnanu",
+    "english": "I agree with you"
+    },
+    {
+    "telugu": "నేను ఒప్పుకోను",
+    "pronunciation": "Nenu oppukonu",
+    "english": "I don't agree"
+    },
+    {
+    "telugu": "నా అభిప్రాయం ప్రకారం",
+    "pronunciation": "Naa abhiprayam prakaram",
+    "english": "In my opinion"
+    },
+    {
+    "telugu": "అది నిజమే",
+    "pronunciation": "Adi nijame",
+    "english": "That is right"
+    },
+    {
+    "telugu": "అది తప్పు",
+    "pronunciation": "Adi thappu",
+    "english": "That is wrong"
+    },
+    {
+    "telugu": "దానికేం పర్వాలేదు",
+    "pronunciation": "Daanikem parvaledu",
+    "english": "It doesn't matter"
+    },
+    {
+    "telugu": "మీరు కచ్చితంగా చెప్తున్నారా?",
+    "pronunciation": "Meeru kachitanga cheptunnara?",
+    "english": "Are you sure?"
+    },
+    {
+    "telugu": "బహుశా",
+    "pronunciation": "Bahushaa",
+    "english": "Maybe"
+    }
+    ]
+    },
+    {
+    "day": 24,
+    "topic": "Learning Telugu phrases",
+    "phrases":[
+    {
+    "telugu": "నేను తెలుగు నేర్చుకుంటున్నాను",
+    "pronunciation": "Nenu Telugu nerchukuntunnanu",
+    "english": "I am learning Telugu"
+    },
+    {
+    "telugu": "నా తెలుగు అంతగా బాగోలేదు",
+    "pronunciation": "Naa Telugu anthaga bagoledu",
+    "english": "My Telugu is not very good"
+    },
+    {
+    "telugu": "దీన్ని తెలుగులో ఏమంటారు?",
+    "pronunciation": "Deenni Telugu-lo emantaru?",
+    "english": "What is this called in Telugu?"
+    },
+    {
+    "telugu": "తెలుగులో ఎలా చెప్తారు?",
+    "pronunciation": "Telugu-lo ela cheptaru?",
+    "english": "How do you say it in Telugu?"
+    },
+    {
+    "telugu": "నేను సరిగ్గానే చెప్పానా?",
+    "pronunciation": "Nenu sariggane cheppanaa?",
+    "english": "Did I say it right?"
+    },
+    {
+    "telugu": "దయచేసి నన్ను సరిదిద్దండి",
+    "pronunciation": "Dayachesi nannu sarididdandi",
+    "english": "Please correct me"
+    },
+    {
+    "telugu": "అది రాయండి",
+    "pronunciation": "Adi raayandi",
+    "english": "Write it down"
+    },
+    {
+    "telugu": "దీని అర్థం ఏమిటి?",
+    "pronunciation": "Deeni artham emiti?",
+    "english": "What does this mean?"
+    },
+    {
+    "telugu": "నాకు కొంచెం అర్థమవుతుంది",
+    "pronunciation": "Naaku konchem arthamavutundi",
+    "english": "I understand a little bit"
+    },
+    {
+    "telugu": "తెలుగులో మాట్లాడండి",
+    "pronunciation": "Telugu-lo matladandi",
+    "english": "Speak in Telugu"
+    }
+    ]
+    },
+    {
+    "day": 25,
+    "topic": "Small talk",
+    "phrases":[
+    {
+    "telugu": "ఈరోజు వాతావరణం బాగుంది కదా?",
+    "pronunciation": "Eeroju vaathavaranam bagundi kadaa?",
+    "english": "Nice weather today, right?"
+    },
+    {
+    "telugu": "నిన్న మ్యాచ్ చూశారా?",
+    "pronunciation": "Ninna match choosara?",
+    "english": "Did you watch the match?"
+    },
+    {
+    "telugu": "వీకెండ్ కి ఏమైనా ప్లాన్స్ ఉన్నాయా?",
+    "pronunciation": "Weekend ki emaina plans unnayaa?",
+    "english": "Any weekend plans?"
+    },
+    {
+    "telugu": "పని ఎలా జరుగుతోంది?",
+    "pronunciation": "Pani ela jarugutondi?",
+    "english": "How is the work going?"
+    },
+    {
+    "telugu": "కొత్త సంగతులు ఏంటి?",
+    "pronunciation": "Kotha sangatulu enti?",
+    "english": "What's new?"
+    },
+    {
+    "telugu": "పెద్దగా ఏమీ లేదు",
+    "pronunciation": "Peddaga emee ledu",
+    "english": "Nothing special"
+    },
+    {
+    "telugu": "దాని గురించి నేను విన్నాను",
+    "pronunciation": "Daani gurinchi nenu vinnanu",
+    "english": "I heard about it"
+    },
+    {
+    "telugu": "నిజంగానా?",
+    "pronunciation": "Nijanganaa?",
+    "english": "Really?"
+    },
+    {
+    "telugu": "అది ఆసక్తికరంగా ఉంది",
+    "pronunciation": "Adi aasaktikaranga undi",
+    "english": "That's interesting"
+    },
+    {
+    "telugu": "జాగ్రత్త",
+    "pronunciation": "Jaagratta",
+    "english": "Take care"
+    }
+    ]
+    },
+    {
+    "day": 26,
+    "topic": "City conversations",
+    "phrases":[
+    {
+    "telugu": "ఇది ఏ ఊరు?",
+    "pronunciation": "Idi ae ooru?",
+    "english": "Which city is this?"
+    },
+    {
+    "telugu": "హైదరాబాద్ చాలా అందమైన నగరం",
+    "pronunciation": "Hyderabad chala andamaina nagaram",
+    "english": "Hyderabad is a beautiful city"
+    },
+    {
+    "telugu": "మార్కెట్ ఎక్కడ ఉంది?",
+    "pronunciation": "Market ekkada undi?",
+    "english": "Where is the market?"
+    },
+    {
+    "telugu": "ఈరోజు ట్రాఫిక్ ఎక్కువగా ఉంది",
+    "pronunciation": "Eeroju traffic ekkuvaga undi",
+    "english": "Traffic is heavy today"
+    },
+    {
+    "telugu": "దగ్గరలో ఏటీఎం ఉందా?",
+    "pronunciation": "Daggaralo ATM undaa?",
+    "english": "Is there an ATM nearby?"
+    },
+    {
+    "telugu": "మంచి హోటల్ ఎక్కడ దొరుకుతుంది?",
+    "pronunciation": "Manchi hotel ekkada dorukutundi?",
+    "english": "Where can I find a good hotel?"
+    },
+    {
+    "telugu": "రాత్రిపూట సురక్షితమేనా?",
+    "pronunciation": "Ratripoota surakshitamenaa?",
+    "english": "Is it safe at night?"
+    },
+    {
+    "telugu": "ఇక్కడ ప్రసిద్ధ ప్రదేశాలు ఏవి?",
+    "pronunciation": "Ikkada prasidda pradeshalu aevi?",
+    "english": "What are the famous places here?"
+    },
+    {
+    "telugu": "రోడ్లు శుభ్రంగా ఉన్నాయి",
+    "pronunciation": "Roadlu shubhranga unnayi",
+    "english": "The roads are clean"
+    },
+    {
+    "telugu": "నాకు ఈ నగరం అంటే ఇష్టం",
+    "pronunciation": "Naaku ee nagaram ante ishtam",
+    "english": "I love this city"
+    }
+    ]
+    },
+    {
+    "day": 27,
+    "topic": "Asking for help",
+    "phrases":[
+    {
+    "telugu": "నాకు సహాయం చేయండి",
+    "pronunciation": "Naaku sahayam cheyandi",
+    "english": "Help me"
+    },
+    {
+    "telugu": "ఎవరైనా నాకు సాయం చేస్తారా?",
+    "pronunciation": "Evaraina naaku saayam chestara?",
+    "english": "Can anyone help me?"
+    },
+    {
+    "telugu": "నా బ్యాగ్ పోయింది",
+    "pronunciation": "Naa bag poyindi",
+    "english": "I lost my bag"
+    },
+    {
+    "telugu": "దయచేసి పోలీసులకి కాల్ చేయండి",
+    "pronunciation": "Dayachesi police-ulaki call cheyandi",
+    "english": "Please call the police"
+    },
+    {
+    "telugu": "పోలీస్ స్టేషన్ ఎక్కడ ఉంది?",
+    "pronunciation": "Police station ekkada undi?",
+    "english": "Where is the police station?"
+    },
+    {
+    "telugu": "నాకు ఒక సమస్య ఉంది",
+    "pronunciation": "Naaku oka samasya undi",
+    "english": "I have a problem"
+    },
+    {
+    "telugu": "నేను మీ ఫోన్ వాడుకోవచ్చా?",
+    "pronunciation": "Nenu mee phone vaadukovachaa?",
+    "english": "Can I use your phone?"
+    },
+    {
+    "telugu": "నా డబ్బులు పోయాయి",
+    "pronunciation": "Naa dabbulu poyayi",
+    "english": "I lost my money"
+    },
+    {
+    "telugu": "ఇతను మీకు తెలుసా?",
+    "pronunciation": "Itanu meeku telusaa?",
+    "english": "Do you know him?"
+    },
+    {
+    "telugu": "దయచేసి నాతో ఉండండి",
+    "pronunciation": "Dayachesi naatho undandi",
+    "english": "Please stay with me"
+    }
+    ]
+    },
+    {
+    "day": 28,
+    "topic": "Understanding fast speech",
+    "phrases":[
+    {
+    "telugu": "మీరు ఏమన్నారు?",
+    "pronunciation": "Meeru emannaru?",
+    "english": "What did you say?"
+    },
+    {
+    "telugu": "నాకు అది సరిగ్గా అర్థం కాలేదు",
+    "pronunciation": "Naaku adi sarigga artham kaaledu",
+    "english": "I didn't catch that"
+    },
+    {
+    "telugu": "మళ్ళీ చెప్పండి",
+    "pronunciation": "Malli cheppandi",
+    "english": "Say it again"
+    },
+    {
+    "telugu": "మీకు అర్థమైందా?",
+    "pronunciation": "Meeku arthamayindaa?",
+    "english": "Did you get it?"
+    },
+    {
+    "telugu": "అవును, నాకు అర్థమైంది",
+    "pronunciation": "Avunu, naaku arthamayindi",
+    "english": "Yes, I understand"
+    },
+    {
+    "telugu": "లేదు, నాకు అర్థం కాలేదు",
+    "pronunciation": "Ledu, naaku artham kaledu",
+    "english": "No, I don't understand"
+    },
+    {
+    "telugu": "మీరు నాతోనే మాట్లాడుతున్నారా?",
+    "pronunciation": "Meeru naathone matladutunnara?",
+    "english": "Are you talking to me?"
+    },
+    {
+    "telugu": "నా మాట వినండి",
+    "pronunciation": "Naa maata vinandi",
+    "english": "Listen to me"
+    },
+    {
+    "telugu": "కొంచెం గట్టిగా మాట్లాడండి",
+    "pronunciation": "Konchem gattiga matladandi",
+    "english": "Speak a bit louder"
+    },
+    {
+    "telugu": "మీ ఉద్దేశ్యం ఏంటి?",
+    "pronunciation": "Mee uddhesyam enti?",
+    "english": "What do you mean?"
+    }
+    ]
+    },
+    {
+    "day": 29,
+    "topic": "Conversation practice",
+    "phrases":[
+    {
+    "telugu": "మనం తెలుగు ప్రాక్టీస్ చేద్దాం",
+    "pronunciation": "Manam Telugu practice cheddaam",
+    "english": "Let's practice Telugu"
+    },
+    {
+    "telugu": "నన్ను ఒక ప్రశ్న అడగండి",
+    "pronunciation": "Nannu oka prashna adagandi",
+    "english": "Ask me a question"
+    },
+    {
+    "telugu": "ఈరోజు ఎలా గడిచింది?",
+    "pronunciation": "Eeroju ela gadichindi?",
+    "english": "How was your day?"
+    },
+    {
+    "telugu": "బాగానే గడిచింది",
+    "pronunciation": "Bagane gadichindi",
+    "english": "It was good"
+    },
+    {
+    "telugu": "నాకు ఒక కథ చెప్పండి",
+    "pronunciation": "Naaku oka katha cheppandi",
+    "english": "Tell me a story"
+    },
+    {
+    "telugu": "మీకు ఇష్టమైన పనులు ఏంటి?",
+    "pronunciation": "Meeku ishtamaina panulu enti?",
+    "english": "What are your hobbies?"
+    },
+    {
+    "telugu": "నాకు సినిమాలు చూడటం ఇష్టం",
+    "pronunciation": "Naaku cinemalu chudatam ishtam",
+    "english": "I like watching movies"
+    },
+    {
+    "telugu": "మీరు ఎలాంటి పాటలు వింటారు?",
+    "pronunciation": "Meeru elanti paatalu vintaru?",
+    "english": "What music do you listen to?"
+    },
+    {
+    "telugu": "ఈరోజు మీరు ఎక్కడికి వెళ్లారు?",
+    "pronunciation": "Eeroju meeru ekkadiki vellaru?",
+    "english": "Where did you go today?"
+    },
+    {
+    "telugu": "నేను పార్కుకి వెళ్ళాను",
+    "pronunciation": "Nenu park-ki vellanu",
+    "english": "I went to the park"
+    }
+    ]
+    },
+    {
+    "day": 30,
+    "topic": "Real life conversations",
+    "phrases":[
+    {
+    "telugu": "ఈరోజు చాలా బాగా చేశారు!",
+    "pronunciation": "Eeroju chala baaga chesaru!",
+    "english": "Good job today!"
+    },
+    {
+    "telugu": "మనం కోర్సు పూర్తి చేసాము",
+    "pronunciation": "Manam course poorthi chesamu",
+    "english": "We have finished the course"
+    },
+    {
+    "telugu": "తెలుగులో మాట్లాడుతూ ఉండండి",
+    "pronunciation": "Telugu-lo matladutu undandi",
+    "english": "Keep speaking Telugu"
+    },
+    {
+    "telugu": "తప్పులు చేయడానికి భయపడకండి",
+    "pronunciation": "Thappulu cheyadaniki bhayapadakandi",
+    "english": "Don't be afraid to make mistakes"
+    },
+    {
+    "telugu": "మీరు మెరుగుపడుతున్నారు",
+    "pronunciation": "Meeru merugupadutunnaru",
+    "english": "You are improving"
+    },
+    {
+    "telugu": "నేర్చుకోవడానికి సమయం పడుతుంది",
+    "pronunciation": "Nerchukovadaniki samayam padutundi",
+    "english": "It takes time to learn"
+    },
+    {
+    "telugu": "ప్రతిరోజూ సాధన చేయండి",
+    "pronunciation": "Pratiroju saadhana cheyandi",
+    "english": "Practice every day"
+    },
+    {
+    "telugu": "స్థానిక ప్రజలతో మాట్లాడండి",
+    "pronunciation": "Sthaanika prajalatho matladandi",
+    "english": "Talk to local people"
+    },
+    {
+    "telugu": "నిన్ను చూస్తుంటే నాకు గర్వంగా ఉంది",
+    "pronunciation": "Ninnu chustunte naaku garvanga undi",
+    "english": "I am proud of you"
+    },
+    {
+    "telugu": "ధన్యవాదాలు మరియు వీడ్కోలు",
+    "pronunciation": "Dhanyavadalu mariyu veedkolu",
+    "english": "Thank you and goodbye"
+    }
+    ]
+    }
+    ]
