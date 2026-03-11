@@ -11,6 +11,7 @@ import Dashboard from "./pages/Dashboard";
 import LessonPage from "./pages/LessonPage";
 import ProgressPage from "./pages/ProgressPage";
 import NotFound from "./pages/NotFound";
+import ExamPage from "./pages/ExamPage";
 
 const queryClient = new QueryClient();
 
@@ -45,6 +46,14 @@ const App = () => (
               element={
                 <ProtectedRoute>
                   <ProgressPage />
+                </ProtectedRoute>
+              }
+            />
+            <Route
+              path="/exam/:difficulty"
+              element={
+                <ProtectedRoute>
+                  <ExamPage />
                 </ProtectedRoute>
               }
             />

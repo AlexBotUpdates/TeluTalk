@@ -61,6 +61,14 @@ The app will be available on `http://localhost:8080`.
   - Columns: `user_id`, `current_day`, `xp`, `streak`, `last_session_date`, `completed_lessons` (int[]), `phrases_mastered`, `updated_at`.
   - RLS **enabled** with policies so each user can only read/write their own row (`auth.uid() = user_id`).
 
+### Creating `user_progress`
+
+This repo includes the SQL to create the table and policies:
+
+- `supabase/migrations/0001_user_progress.sql`
+
+Run it in your Supabase project (SQL Editor), or apply it via the Supabase CLI migrations workflow.
+
 ## Netlify deployment notes
 
 - Build command: `npm run build`

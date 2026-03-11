@@ -1,0 +1,167 @@
+[
+    {
+      "difficulty": "easy",
+      "phrases": [
+        {
+          "telugu": "నమస్కారం, ఎలా ఉన్నారు?",
+          "pronunciation": "Namaskaram, ela unnaaru?",
+          "english": "Hello, how are you?"
+        },
+        {
+          "telugu": "నా పేరు...",
+          "pronunciation": "Naa peru...",
+          "english": "My name is..."
+        },
+        {
+          "telugu": "ధన్యవాదాలు.",
+          "pronunciation": "Dhanyavadaalu.",
+          "english": "Thank you."
+        },
+        {
+          "telugu": "ఎంత?",
+          "pronunciation": "Enta?",
+          "english": "How much?"
+        },
+        {
+          "telugu": "ఇది ఏమిటి?",
+          "pronunciation": "Idi emiṭi?",
+          "english": "What is this?"
+        },
+        {
+          "telugu": "నాకు అర్థం కాలేదు.",
+          "pronunciation": "Naaku artham kaaledu.",
+          "english": "I don't understand."
+        },
+        {
+          "telugu": "దయచేసి చెప్పండి.",
+          "pronunciation": "Dayachesi cheppaṇḍi.",
+          "english": "Please tell me."
+        },
+        {
+          "telugu": "అవును.",
+          "pronunciation": "Avunu.",
+          "english": "Yes."
+        },
+        {
+          "telugu": "లేదు.",
+          "pronunciation": "Ledu.",
+          "english": "No."
+        },
+        {
+          "telugu": "మళ్ళీ కలుద్దాం.",
+          "pronunciation": "Maḷḷi kaluddaam.",
+          "english": "See you again."
+        }
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "phrases": [
+        {
+          "telugu": "మీరు ఎక్కడ నుండి వచ్చారు?",
+          "pronunciation": "Meeru ekkaḍa nunḍi vacchaaru?",
+          "english": "Where are you from?"
+        },
+        {
+          "telugu": "నేను హైదరాబాద్ వెళ్తున్నాను.",
+          "pronunciation": "Nenu Hyderabad veḷtunnaanu.",
+          "english": "I am going to Hyderabad."
+        },
+        {
+          "telugu": "మీరు తెలుగు మాట్లాడుతారా?",
+          "pronunciation": "Meeru Telugu maaṭlaaḍutaaraa?",
+          "english": "Do you speak Telugu?"
+        },
+        {
+          "telugu": "నాకు కొద్దిగా తెలుగు వచ్చు.",
+          "pronunciation": "Naaku koddi gaa Telugu vaccu.",
+          "english": "I know a little Telugu."
+        },
+        {
+          "telugu": "మీరు సహాయం చేయగలరా?",
+          "pronunciation": "Meeru sahaayam cheyagalaraa?",
+          "english": "Can you help me?"
+        },
+        {
+          "telugu": "ఈ రోజు వాతావరణం బాగుంది.",
+          "pronunciation": "Ee roju vaataavaraṇam baagundi.",
+          "english": "The weather is good today."
+        },
+        {
+          "telugu": "నేను కాఫీ త్రాగాలనుకుంటున్నాను.",
+          "pronunciation": "Nenu coffee traagaalanukunṭunnaanu.",
+          "english": "I want to drink coffee."
+        },
+        {
+          "telugu": "రైల్వే స్టేషన్ ఎక్కడ ఉంది?",
+          "pronunciation": "Railway station ekkaḍa undi?",
+          "english": "Where is the railway station?"
+        },
+        {
+          "telugu": "ఈ దుకాణం ఎప్పుడు తెరుస్తుంది?",
+          "pronunciation": "Ee dukaaṇam eppuḍu terustundi?",
+          "english": "When does this shop open?"
+        },
+        {
+          "telugu": "మాట్లాడినందుకు ధన్యవాదాలు.",
+          "pronunciation": "Maaṭlaaḍinanduku dhanyavadaalu.",
+          "english": "Thank you for speaking."
+        }
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "phrases": [
+        {
+          "telugu": "మీరు నా ప్రశ్నలకు సమాధానం ఇవ్వగలరా?",
+          "pronunciation": "Meeru naa praśnalaku samaadhaanam ivvagala raa?",
+          "english": "Can you answer my questions?"
+        },
+        {
+          "telugu": "నేను ఈ వారం పనితో చాలా బిజీగా ఉన్నాను.",
+          "pronunciation": "Nenu ee vaaram panitō caalaa busy gaa unnaanu.",
+          "english": "I am very busy with work this week."
+        },
+        {
+          "telugu": "మీరు దయచేసి నెమ్మదిగా మాట్లాడగలరా?",
+          "pronunciation": "Meeru dayachesi nemmadigaa maaṭlaaḍagala raa?",
+          "english": "Could you please speak slowly?"
+        },
+        {
+          "telugu": "నాకు ఈ విషయం గురించి మరింత సమాచారం కావాలి.",
+          "pronunciation": "Naaku ee vishayam gurinchi marinta samaachaaram kaavaali.",
+          "english": "I need more information about this."
+        },
+        {
+          "telugu": "నేను రేపు మధ్యాహ్నం మిమ్మల్ని కలుస్తాను.",
+          "pronunciation": "Nenu repu madhyaahnam mimmalni kalustaanu.",
+          "english": "I will meet you tomorrow afternoon."
+        },
+        {
+          "telugu": "మీకు వీలైనప్పుడు నాకు కాల్ చేయండి.",
+          "pronunciation": "Meeku veeḷainappuḍu naaku call cheyanḍi.",
+          "english": "Please call me when you can."
+        },
+        {
+          "telugu": "నేను మీ సహాయాన్ని అభినందిస్తున్నాను.",
+          "pronunciation": "Nenu mee sahaayaanni abhinandistunnaanu.",
+          "english": "I appreciate your help."
+        },
+        {
+          "telugu": "మేము సాయంత్రం బయట భోజనం చేద్దాం అనుకుంటున్నాము.",
+          "pronunciation": "Memu saayantram bayaṭa bhojanam cheddam anukunṭunnaam.",
+          "english": "We are thinking of having dinner out in the evening."
+        },
+        {
+          "telugu": "మీరు ఇక్కడికి ఎలా వచ్చారో చెప్పగలరా?",
+          "pronunciation": "Meeru ikkaḍiki elaa vacchaaro cheppagalaraa?",
+          "english": "Can you tell me how you got here?"
+        },
+        {
+          "telugu": "నేను తెలుగు నేర్చుకోవడానికి ప్రయత్నిస్తున్నాను, కాబట్టి దయచేసి నన్ను సరిచేయండి.",
+          "pronunciation": "Nenu Telugu nērchukōvaḍaaniki prayatnistunnanu, kaabaṭṭi dayachesi nannu saricheyanḍi.",
+          "english": "I am trying to learn Telugu, so please correct me."
+        }
+      ]
+    }
+  ]

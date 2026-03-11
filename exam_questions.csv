@@ -1,0 +1,31 @@
+difficulty,question_number,telugu,pronunciation,english,sort_order
+easy,1,"నమస్కారం, ఎలా ఉన్నారు?","Namaskaram, ela unnaaru?","Hello, how are you?",1
+easy,2,నా పేరు...,Naa peru...,My name is...,2
+easy,3,ధన్యవాదాలు.,Dhanyavadaalu.,Thank you.,3
+easy,4,ఎంత?,Enta?,How much?,4
+easy,5,ఇది ఏమిటి?,Idi emiṭi?,What is this?,5
+easy,6,నాకు అర్థం కాలేదు.,Naaku artham kaaledu.,I don't understand.,6
+easy,7,దయచేసి చెప్పండి.,Dayachesi cheppaṇḍi.,Please tell me.,7
+easy,8,అవును.,Avunu.,Yes.,8
+easy,9,లేదు.,Ledu.,No.,9
+easy,10,మళ్ళీ కలుద్దాం.,Maḷḷi kaluddaam.,See you again.,10
+medium,1,మీరు ఎక్కడ నుండి వచ్చారు?,Meeru ekkaḍa nunḍi vacchaaru?,Where are you from?,1
+medium,2,నేను హైదరాబాద్ వెళ్తున్నాను.,Nenu Hyderabad veḷtunnaanu.,I am going to Hyderabad.,2
+medium,3,మీరు తెలుగు మాట్లాడుతారా?,Meeru Telugu maaṭlaaḍutaaraa?,Do you speak Telugu?,3
+medium,4,నాకు కొద్దిగా తెలుగు వచ్చు.,Naaku koddi gaa Telugu vaccu.,I know a little Telugu.,4
+medium,5,మీరు సహాయం చేయగలరా?,Meeru sahaayam cheyagalaraa?,Can you help me?,5
+medium,6,ఈ రోజు వాతావరణం బాగుంది.,Ee roju vaataavaraṇam baagundi.,The weather is good today.,6
+medium,7,నేను కాఫీ త్రాగాలనుకుంటున్నాను.,Nenu coffee traagaalanukunṭunnaanu.,I want to drink coffee.,7
+medium,8,రైల్వే స్టేషన్ ఎక్కడ ఉంది?,Railway station ekkaḍa undi?,Where is the railway station?,8
+medium,9,ఈ దుకాణం ఎప్పుడు తెరుస్తుంది?,Ee dukaaṇam eppuḍu terustundi?,When does this shop open?,9
+medium,10,మాట్లాడినందుకు ధన్యవాదాలు.,Maaṭlaaḍinanduku dhanyavadaalu.,Thank you for speaking.,10
+hard,1,మీరు నా ప్రశ్నలకు సమాధానం ఇవ్వగలరా?,Meeru naa praśnalaku samaadhaanam ivvagala raa?,Can you answer my questions?,1
+hard,2,నేను ఈ వారం పనితో చాలా బిజీగా ఉన్నాను.,Nenu ee vaaram panitō caalaa busy gaa unnaanu.,I am very busy with work this week.,2
+hard,3,మీరు దయచేసి నెమ్మదిగా మాట్లాడగలరా?,Meeru dayachesi nemmadigaa maaṭlaaḍagala raa?,Could you please speak slowly?,3
+hard,4,నాకు ఈ విషయం గురించి మరింత సమాచారం కావాలి.,Naaku ee vishayam gurinchi marinta samaachaaram kaavaali.,I need more information about this.,4
+hard,5,నేను రేపు మధ్యాహ్నం మిమ్మల్ని కలుస్తాను.,Nenu repu madhyaahnam mimmalni kalustaanu.,I will meet you tomorrow afternoon.,5
+hard,6,మీకు వీలైనప్పుడు నాకు కాల్ చేయండి.,Meeku veeḷainappuḍu naaku call cheyanḍi.,Please call me when you can.,6
+hard,7,నేను మీ సహాయాన్ని అభినందిస్తున్నాను.,Nenu mee sahaayaanni abhinandistunnaanu.,I appreciate your help.,7
+hard,8,మేము సాయంత్రం బయట భోజనం చేద్దాం అనుకుంటున్నాము.,Memu saayantram bayaṭa bhojanam cheddam anukunṭunnaam.,We are thinking of having dinner out in the evening.,8
+hard,9,మీరు ఇక్కడికి ఎలా వచ్చారో చెప్పగలరా?,Meeru ikkaḍiki elaa vacchaaro cheppagalaraa?,Can you tell me how you got here?,9
+hard,10,"నేను తెలుగు నేర్చుకోవడానికి ప్రయత్నిస్తున్నాను, కాబట్టి దయచేసి నన్ను సరిచేయండి.","Nenu Telugu nērchukōvaḍaaniki prayatnistunnanu, kaabaṭṭi dayachesi nannu saricheyanḍi.","I am trying to learn Telugu, so please correct me.",10

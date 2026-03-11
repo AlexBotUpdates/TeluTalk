@@ -1,6 +1,15 @@
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Flame, Zap, Trophy, BookOpen, Lock, CheckCircle2, PlayCircle } from "lucide-react";
+import {
+  Flame,
+  Zap,
+  Trophy,
+  BookOpen,
+  Lock,
+  CheckCircle2,
+  PlayCircle,
+  Award,
+} from "lucide-react";
 import { useProgress } from "@/hooks/useProgress";
 import { useLessons } from "@/hooks/useLessons";
 import { useAuth } from "@/auth/AuthProvider";
@@ -12,6 +21,10 @@ const Dashboard = () => {
   const { signOut } = useAuth();
   const level = getLevel();
   const xpToNext = 100 - (progress.xp % 100);
+
+  const allLessonsCount = days.length || 0;
+  const allLessonsCompleted =
+    allLessonsCount > 0 && progress.completedLessons.length >= allLessonsCount;
 
   return (
     <div className="min-h-screen bg-background">
@@ -93,6 +106,53 @@ const Dashboard = () => {
                 className="h-full bg-xp rounded-full"
               />
             </div>
+          </div>
+        </motion.div>
+
+        {/* Exams */}
+        <motion.div
+          initial={{ y: 20, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          className="bg-card rounded-2xl border border-border p-5 mb-6"
+        >
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-2">
+              <Award className="w-5 h-5 text-gold" />
+              <h2 className="font-bold text-foreground">Final Exams</h2>
+            </div>
+            {!allLessonsCompleted && (
+              <span className="text-[10px] uppercase tracking-wide text-muted-foreground flex items-center gap-1">
+                <Lock className="w-3 h-3" />
+                Complete all lessons
+              </span>
+            )}
+          </div>
+          <p className="text-xs text-muted-foreground mb-4">
+            Timed tests to prove you can comfortably speak Telugu. Unlocks after you finish all 30 lessons.
+          </p>
+          <div className="grid grid-cols-3 gap-2">
+            {[
+              { difficulty: "easy", label: "Easy", time: "5 min" },
+              { difficulty: "medium", label: "Medium", time: "10 min" },
+              { difficulty: "hard", label: "Hard", time: "15 min" },
+            ].map((exam) => {
+              const disabled = !allLessonsCompleted;
+              return (
+                <button
+                  key={exam.difficulty}
+                  disabled={disabled}
+                  onClick={() => !disabled && navigate(`/exam/${exam.difficulty}`)}
+                  className={`rounded-xl border text-xs px-2 py-3 flex flex-col items-center gap-1 ${
+                    disabled
+                      ? "border-border bg-muted text-muted-foreground opacity-70"
+                      : "border-border bg-secondary text-secondary-foreground hover:bg-secondary/80 transition-colors"
+                  }`}
+                >
+                  <span className="font-semibold">{exam.label}</span>
+                  <span className="text-[10px] text-muted-foreground">{exam.time}</span>
+                </button>
+              );
+            })}
           </div>
         </motion.div>
 

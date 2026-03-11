@@ -11,7 +11,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "phrases:csv": "node scripts/phrases-json-to-csv.mjs"
+    "phrases:csv": "node scripts/phrases-json-to-csv.mjs",
+    "exams:csv": "node scripts/exam-json-to-csv.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
